@@ -1,0 +1,81 @@
+nearmiss_id,date,site,area,type,potential_severity,root_cause,linked_sop,observation
+NM-0001,2025-11-09,Rampura Agucha Mine,Cast House,LOTO Bypass / Hazardous Energy,Serious,Stored energy not released,SOP-LOTO-001,Try-out step skipped; equipment energised while guard was open.
+NM-0002,2026-04-22,Chanderiya Zinc,Hydrometallurgy,Crane / Lifting Failure,First Aid,SWL exceeded,SOP-CRN-005,Rigger stood under a suspended load while guiding it by hand.
+NM-0003,2026-05-10,Rampura Agucha Mine,Hydrometallurgy,LOTO Bypass / Hazardous Energy,High Potential,Isolation not verified,SOP-LOTO-001,Try-out step skipped; equipment energised while guard was open.
+NM-0004,2026-05-18,Chanderiya Zinc,Crusher Plant,Fall from Height,Serious,Harness not anchored,SOP-WAH-003,Worker un-clipped lanyard to reposition and lost balance near an open edge.
+NM-0005,2025-07-16,BALCO Korba,Maintenance Workshop,LOTO Bypass / Hazardous Energy,First Aid,Isolation not verified,SOP-LOTO-001,Try-out step skipped; equipment energised while guard was open.
+NM-0006,2026-01-11,Chanderiya Zinc,Hydrometallurgy,Confined Space Exposure,Serious,No standby attendant,SOP-CSE-002,Entry made on an expired permit without re-testing atmosphere.
+NM-0007,2026-01-25,Debari Zinc,Cast House,Confined Space Exposure,High Potential,No standby attendant,SOP-CSE-002,Entry made on an expired permit without re-testing atmosphere.
+NM-0008,2025-07-13,Debari Zinc,Hydrometallurgy,Crane / Lifting Failure,Minor,Defective sling,SOP-CRN-005,Frayed sling parted mid-lift; load dropped within barricaded zone.
+NM-0009,2025-08-16,Debari Zinc,Hydrometallurgy,Electrical Shock / Arc Flash,Serious,Earthing not applied,SOP-ELE-006,Capacitive energy not discharged; technician received a shock.
+NM-0010,2026-01-16,BALCO Korba,Power Plant,LOTO Bypass / Hazardous Energy,High Potential,Lock not applied,SOP-LOTO-001,Technician began belt maintenance before confirming isolation; conveyor jogged unexpectedly.
+NM-0011,2026-05-21,Debari Zinc,Pot Room,Molten Metal Burn,Near Miss,Inadequate PPE,SOP-HMM-004,Damp skimmer caused molten metal spatter during tapping.
+NM-0012,2026-04-12,Lanjigarh Refinery,Cast House,Confined Space Exposure,High Potential,No standby attendant,SOP-CSE-002,Entrant felt dizzy; gas monitor showed low O2 after ventilation tripped.
+NM-0013,2025-10-24,BALCO Korba,Alumina Refinery,Molten Metal Burn,High Potential,Exclusion zone breached,SOP-HMM-004,Damp skimmer caused molten metal spatter during tapping.
+NM-0014,2025-09-09,Lanjigarh Refinery,Crusher Plant,Crane / Lifting Failure,High Potential,SWL exceeded,SOP-CRN-005,Frayed sling parted mid-lift; load dropped within barricaded zone.
+NM-0015,2025-07-04,BALCO Korba,Power Plant,Confined Space Exposure,Serious,Atmosphere not tested,SOP-CSE-002,Entrant felt dizzy; gas monitor showed low O2 after ventilation tripped.
+NM-0016,2025-07-23,Lanjigarh Refinery,Material Handling,Crane / Lifting Failure,Serious,Personnel under load,SOP-CRN-005,Frayed sling parted mid-lift; load dropped within barricaded zone.
+NM-0017,2026-02-11,BALCO Korba,Cast House,Slip / Trip / Fall (same level),Serious,Housekeeping,,Worker slipped on an unmarked oil patch near a pump.
+NM-0018,2026-02-16,Debari Zinc,Pot Room,Crane / Lifting Failure,Near Miss,Defective sling,SOP-CRN-005,Rigger stood under a suspended load while guiding it by hand.
+NM-0019,2026-06-13,Jharsuguda Smelter,Maintenance Workshop,Vehicle / Mobile Equipment,High Potential,Blind spot,SOP-MOB-007,Pedestrian crossed a haul road outside the walkway near a reversing dumper.
+NM-0020,2025-12-08,Rampura Agucha Mine,Alumina Refinery,Fall from Height,Near Miss,No edge protection,SOP-WAH-003,Scaffold platform plank shifted; worker was not tied off.
+NM-0021,2026-01-08,Rampura Agucha Mine,Crusher Plant,Electrical Shock / Arc Flash,Serious,Earthing not applied,SOP-ELE-006,Capacitive energy not discharged; technician received a shock.
+NM-0022,2026-06-21,Jharsuguda Smelter,Power Plant,Fall from Height,Serious,Harness not anchored,SOP-WAH-003,Anchor point below shoulder height failed to arrest a short fall.
+NM-0023,2026-02-14,Chanderiya Zinc,Material Handling,Electrical Shock / Arc Flash,High Potential,No test-before-touch,SOP-ELE-006,Capacitive energy not discharged; technician received a shock.
+NM-0024,2026-06-02,BALCO Korba,Hydrometallurgy,Electrical Shock / Arc Flash,High Potential,Earthing not applied,SOP-ELE-006,Capacitive energy not discharged; technician received a shock.
+NM-0025,2025-08-12,Jharsuguda Smelter,Cast House,Fall from Height,Serious,Invalid scaffold tag,SOP-WAH-003,Scaffold platform plank shifted; worker was not tied off.
+NM-0026,2025-09-01,Rampura Agucha Mine,Pot Room,Electrical Shock / Arc Flash,Serious,Earthing not applied,SOP-ELE-006,Capacitive energy not discharged; technician received a shock.
+NM-0027,2026-01-23,BALCO Korba,Material Handling,Fall from Height,High Potential,Invalid scaffold tag,SOP-WAH-003,Worker un-clipped lanyard to reposition and lost balance near an open edge.
+NM-0028,2026-04-30,BALCO Korba,Hydrometallurgy,Crane / Lifting Failure,First Aid,Personnel under load,SOP-CRN-005,Frayed sling parted mid-lift; load dropped within barricaded zone.
+NM-0029,2026-05-29,Chanderiya Zinc,Power Plant,Confined Space Exposure,High Potential,Ventilation stopped,SOP-CSE-002,Entry made on an expired permit without re-testing atmosphere.
+NM-0030,2025-11-16,Rampura Agucha Mine,Power Plant,Fall from Height,High Potential,Invalid scaffold tag,SOP-WAH-003,Scaffold platform plank shifted; worker was not tied off.
+NM-0031,2026-05-04,Debari Zinc,Crusher Plant,LOTO Bypass / Hazardous Energy,Near Miss,Lock not applied,SOP-LOTO-001,Try-out step skipped; equipment energised while guard was open.
+NM-0032,2025-12-17,BALCO Korba,Pot Room,Crane / Lifting Failure,First Aid,SWL exceeded,SOP-CRN-005,Rigger stood under a suspended load while guiding it by hand.
+NM-0033,2025-09-07,Debari Zinc,Pot Room,Fall from Height,Near Miss,Invalid scaffold tag,SOP-WAH-003,Worker un-clipped lanyard to reposition and lost balance near an open edge.
+NM-0034,2026-01-27,Chanderiya Zinc,Hydrometallurgy,Vehicle / Mobile Equipment,First Aid,Blind spot,SOP-MOB-007,Forklift reversed without a spotter in a congested store.
+NM-0035,2025-07-23,Lanjigarh Refinery,Alumina Refinery,Fall from Height,High Potential,Harness not anchored,SOP-WAH-003,Scaffold platform plank shifted; worker was not tied off.
+NM-0036,2025-11-13,Chanderiya Zinc,Material Handling,Fall from Height,Serious,No edge protection,SOP-WAH-003,Anchor point below shoulder height failed to arrest a short fall.
+NM-0037,2025-10-15,Rampura Agucha Mine,Cast House,Crane / Lifting Failure,Minor,SWL exceeded,SOP-CRN-005,Rigger stood under a suspended load while guiding it by hand.
+NM-0038,2026-03-23,Debari Zinc,Crusher Plant,Slip / Trip / Fall (same level),Near Miss,Oil spill,,Worker slipped on an unmarked oil patch near a pump.
+NM-0039,2025-10-09,BALCO Korba,Power Plant,LOTO Bypass / Hazardous Energy,High Potential,Lock not applied,SOP-LOTO-001,Lockout omitted on a second energy source; hydraulic ram drifted during service.
+NM-0040,2025-08-27,Jharsuguda Smelter,Maintenance Workshop,Electrical Shock / Arc Flash,High Potential,Live work without permit,SOP-ELE-006,Panel assumed dead; arc flash occurred when test-before-touch was skipped.
+NM-0041,2026-03-26,Debari Zinc,Power Plant,Vehicle / Mobile Equipment,Serious,Speeding,SOP-MOB-007,Forklift reversed without a spotter in a congested store.
+NM-0042,2026-01-16,Debari Zinc,Pot Room,Fall from Height,Serious,No edge protection,SOP-WAH-003,Worker un-clipped lanyard to reposition and lost balance near an open edge.
+NM-0043,2026-04-17,Chanderiya Zinc,Material Handling,Electrical Shock / Arc Flash,High Potential,No test-before-touch,SOP-ELE-006,Capacitive energy not discharged; technician received a shock.
+NM-0044,2026-01-20,Jharsuguda Smelter,Hydrometallurgy,Fall from Height,First Aid,Invalid scaffold tag,SOP-WAH-003,Anchor point below shoulder height failed to arrest a short fall.
+NM-0045,2025-08-11,Chanderiya Zinc,Cast House,Electrical Shock / Arc Flash,Minor,Earthing not applied,SOP-ELE-006,Capacitive energy not discharged; technician received a shock.
+NM-0046,2026-01-15,BALCO Korba,Hydrometallurgy,Fall from Height,Minor,Harness not anchored,SOP-WAH-003,Worker un-clipped lanyard to reposition and lost balance near an open edge.
+NM-0047,2026-03-25,Rampura Agucha Mine,Power Plant,Fall from Height,High Potential,No edge protection,SOP-WAH-003,Anchor point below shoulder height failed to arrest a short fall.
+NM-0048,2025-10-25,Jharsuguda Smelter,Alumina Refinery,Confined Space Exposure,Minor,Atmosphere not tested,SOP-CSE-002,Entrant felt dizzy; gas monitor showed low O2 after ventilation tripped.
+NM-0049,2025-09-25,Debari Zinc,Maintenance Workshop,Fall from Height,Serious,Invalid scaffold tag,SOP-WAH-003,Scaffold platform plank shifted; worker was not tied off.
+NM-0050,2026-06-10,Rampura Agucha Mine,Hydrometallurgy,Slip / Trip / Fall (same level),High Potential,Poor lighting,,Trip over cabling left across a walkway.
+NM-0051,2026-02-07,Jharsuguda Smelter,Maintenance Workshop,Confined Space Exposure,Serious,Ventilation stopped,SOP-CSE-002,Entry made on an expired permit without re-testing atmosphere.
+NM-0052,2025-12-24,Rampura Agucha Mine,Cast House,LOTO Bypass / Hazardous Energy,Minor,Lock not applied,SOP-LOTO-001,Technician began belt maintenance before confirming isolation; conveyor jogged unexpectedly.
+NM-0053,2026-01-01,BALCO Korba,Cast House,LOTO Bypass / Hazardous Energy,Serious,Isolation not verified,SOP-LOTO-001,Try-out step skipped; equipment energised while guard was open.
+NM-0054,2026-02-18,Rampura Agucha Mine,Pot Room,Vehicle / Mobile Equipment,Serious,Speeding,SOP-MOB-007,Pedestrian crossed a haul road outside the walkway near a reversing dumper.
+NM-0055,2026-05-02,Chanderiya Zinc,Alumina Refinery,Electrical Shock / Arc Flash,High Potential,No test-before-touch,SOP-ELE-006,Panel assumed dead; arc flash occurred when test-before-touch was skipped.
+NM-0056,2026-06-27,Jharsuguda Smelter,Alumina Refinery,Electrical Shock / Arc Flash,Near Miss,Earthing not applied,SOP-ELE-006,Capacitive energy not discharged; technician received a shock.
+NM-0057,2026-03-22,Rampura Agucha Mine,Alumina Refinery,Slip / Trip / Fall (same level),Minor,Oil spill,,Trip over cabling left across a walkway.
+NM-0058,2025-12-17,Debari Zinc,Pot Room,Vehicle / Mobile Equipment,High Potential,Speeding,SOP-MOB-007,Forklift reversed without a spotter in a congested store.
+NM-0059,2025-12-12,Jharsuguda Smelter,Material Handling,Fall from Height,Minor,Invalid scaffold tag,SOP-WAH-003,Scaffold platform plank shifted; worker was not tied off.
+NM-0060,2025-12-14,Jharsuguda Smelter,Alumina Refinery,Confined Space Exposure,High Potential,Ventilation stopped,SOP-CSE-002,Entry made on an expired permit without re-testing atmosphere.
+NM-0061,2026-04-27,Debari Zinc,Cast House,Confined Space Exposure,Minor,Ventilation stopped,SOP-CSE-002,Entry made on an expired permit without re-testing atmosphere.
+NM-0062,2026-06-05,Debari Zinc,Cast House,Confined Space Exposure,Serious,Ventilation stopped,SOP-CSE-002,Entry made on an expired permit without re-testing atmosphere.
+NM-0063,2025-12-29,BALCO Korba,Alumina Refinery,LOTO Bypass / Hazardous Energy,High Potential,Lock not applied,SOP-LOTO-001,Lockout omitted on a second energy source; hydraulic ram drifted during service.
+NM-0064,2025-10-20,Lanjigarh Refinery,Alumina Refinery,Molten Metal Burn,Near Miss,Moisture on tool,SOP-HMM-004,Damp skimmer caused molten metal spatter during tapping.
+NM-0065,2026-05-09,Lanjigarh Refinery,Material Handling,Electrical Shock / Arc Flash,First Aid,Live work without permit,SOP-ELE-006,Panel assumed dead; arc flash occurred when test-before-touch was skipped.
+NM-0066,2025-07-19,Chanderiya Zinc,Hydrometallurgy,Slip / Trip / Fall (same level),Serious,Housekeeping,,Trip over cabling left across a walkway.
+NM-0067,2026-02-11,Lanjigarh Refinery,Power Plant,Crane / Lifting Failure,Minor,Defective sling,SOP-CRN-005,Frayed sling parted mid-lift; load dropped within barricaded zone.
+NM-0068,2026-06-09,Rampura Agucha Mine,Maintenance Workshop,Electrical Shock / Arc Flash,Serious,No test-before-touch,SOP-ELE-006,Capacitive energy not discharged; technician received a shock.
+NM-0069,2025-09-17,Lanjigarh Refinery,Alumina Refinery,Vehicle / Mobile Equipment,High Potential,No pedestrian segregation,SOP-MOB-007,Forklift reversed without a spotter in a congested store.
+NM-0070,2026-04-06,Jharsuguda Smelter,Cast House,Electrical Shock / Arc Flash,Minor,Live work without permit,SOP-ELE-006,Capacitive energy not discharged; technician received a shock.
+NM-0071,2026-03-16,Lanjigarh Refinery,Material Handling,Slip / Trip / Fall (same level),Near Miss,Housekeeping,,Trip over cabling left across a walkway.
+NM-0072,2025-07-10,Chanderiya Zinc,Pot Room,Electrical Shock / Arc Flash,Minor,No test-before-touch,SOP-ELE-006,Panel assumed dead; arc flash occurred when test-before-touch was skipped.
+NM-0073,2025-08-07,BALCO Korba,Power Plant,Vehicle / Mobile Equipment,Near Miss,No pedestrian segregation,SOP-MOB-007,Forklift reversed without a spotter in a congested store.
+NM-0074,2025-09-05,Jharsuguda Smelter,Crusher Plant,Confined Space Exposure,High Potential,Ventilation stopped,SOP-CSE-002,Entrant felt dizzy; gas monitor showed low O2 after ventilation tripped.
+NM-0075,2026-02-11,Rampura Agucha Mine,Pot Room,Slip / Trip / Fall (same level),High Potential,Housekeeping,,Trip over cabling left across a walkway.
+NM-0076,2025-09-11,Rampura Agucha Mine,Material Handling,Molten Metal Burn,First Aid,Inadequate PPE,SOP-HMM-004,Damp skimmer caused molten metal spatter during tapping.
+NM-0077,2025-08-28,Jharsuguda Smelter,Power Plant,Crane / Lifting Failure,Serious,Personnel under load,SOP-CRN-005,Rigger stood under a suspended load while guiding it by hand.
+NM-0078,2025-08-22,Chanderiya Zinc,Pot Room,Fall from Height,Serious,Invalid scaffold tag,SOP-WAH-003,Worker un-clipped lanyard to reposition and lost balance near an open edge.
+NM-0079,2025-11-23,Chanderiya Zinc,Pot Room,Confined Space Exposure,Serious,Atmosphere not tested,SOP-CSE-002,Entry made on an expired permit without re-testing atmosphere.
+NM-0080,2026-06-02,Debari Zinc,Cast House,Confined Space Exposure,Serious,Ventilation stopped,SOP-CSE-002,Entrant felt dizzy; gas monitor showed low O2 after ventilation tripped.

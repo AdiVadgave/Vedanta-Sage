@@ -1,0 +1,121 @@
+incident_id,date,site,area,type,severity,equipment,root_cause,linked_sop,narrative
+INC-0035,2026-06-22,BALCO Korba,Crusher Plant,Vehicle / Mobile Equipment,Near Miss,Ladder,No pedestrian segregation,SOP-MOB-007,Forklift reversed without a spotter in a congested store.
+INC-0027,2025-04-08,Lanjigarh Refinery,Cast House,Molten Metal Burn,First Aid,Pump,Moisture on tool,SOP-HMM-004,Operator entered casting bay without face shield during a pour.
+INC-0052,2025-02-17,Debari Zinc,Material Handling,Crane / Lifting Failure,Near Miss,Pump,Defective sling,SOP-CRN-005,Rigger stood under a suspended load while guiding it by hand.
+INC-0034,2025-05-05,Rampura Agucha Mine,Power Plant,Vehicle / Mobile Equipment,Minor,Conveyor,Speeding,SOP-MOB-007,Pedestrian crossed a haul road outside the walkway near a reversing dumper.
+INC-0091,2026-04-28,Chanderiya Zinc,Maintenance Workshop,Crane / Lifting Failure,First Aid,Conveyor,Defective sling,SOP-CRN-005,Rigger stood under a suspended load while guiding it by hand.
+INC-0113,2025-12-17,Rampura Agucha Mine,Crusher Plant,Vehicle / Mobile Equipment,Serious,Panel,Speeding,SOP-MOB-007,Forklift reversed without a spotter in a congested store.
+INC-0078,2026-03-17,Debari Zinc,Hydrometallurgy,Electrical Shock / Arc Flash,Near Miss,Ladder,Live work without permit,SOP-ELE-006,Capacitive energy not discharged; technician received a shock.
+INC-0028,2025-08-09,Chanderiya Zinc,Cast House,Molten Metal Burn,High Potential,Crane,Moisture on tool,SOP-HMM-004,Operator entered casting bay without face shield during a pour.
+INC-0040,2025-10-18,Rampura Agucha Mine,Power Plant,Crane / Lifting Failure,Minor,Pump,Personnel under load,SOP-CRN-005,Rigger stood under a suspended load while guiding it by hand.
+INC-0076,2025-11-18,Rampura Agucha Mine,Material Handling,LOTO Bypass / Hazardous Energy,First Aid,Pump,Isolation not verified,SOP-LOTO-001,Try-out step skipped; equipment energised while guard was open.
+INC-0016,2025-08-26,Rampura Agucha Mine,Maintenance Workshop,Fall from Height,First Aid,Conveyor,Harness not anchored,SOP-WAH-003,Scaffold platform plank shifted; worker was not tied off.
+INC-0041,2025-09-17,Jharsuguda Smelter,Cast House,Slip / Trip / Fall (same level),Minor,Panel,Housekeeping,,Worker slipped on an unmarked oil patch near a pump.
+INC-0111,2025-10-28,Rampura Agucha Mine,Crusher Plant,Slip / Trip / Fall (same level),First Aid,Dumper,Oil spill,,Worker slipped on an unmarked oil patch near a pump.
+INC-0025,2026-03-11,Lanjigarh Refinery,Cast House,Molten Metal Burn,Minor,Crane,Moisture on tool,SOP-HMM-004,Damp skimmer caused molten metal spatter during tapping.
+INC-0099,2025-03-05,Lanjigarh Refinery,Crusher Plant,Fall from Height,Minor,Panel,No edge protection,SOP-WAH-003,Worker un-clipped lanyard to reposition and lost balance near an open edge.
+INC-0107,2026-03-02,Jharsuguda Smelter,Power Plant,Slip / Trip / Fall (same level),Minor,Dumper,Poor lighting,,Trip over cabling left across a walkway.
+INC-0110,2025-04-08,Lanjigarh Refinery,Cast House,Vehicle / Mobile Equipment,First Aid,Crane,Speeding,SOP-MOB-007,Pedestrian crossed a haul road outside the walkway near a reversing dumper.
+INC-0071,2026-04-13,BALCO Korba,Hydrometallurgy,Molten Metal Burn,Serious,Forklift,Inadequate PPE,SOP-HMM-004,Operator entered casting bay without face shield during a pour.
+INC-0112,2025-05-31,Chanderiya Zinc,Power Plant,Slip / Trip / Fall (same level),High Potential,Furnace,Housekeeping,,Trip over cabling left across a walkway.
+INC-0012,2025-10-01,Rampura Agucha Mine,Pot Room,LOTO Bypass / Hazardous Energy,High Potential,Pump,Isolation not verified,SOP-LOTO-001,Technician began belt maintenance before confirming isolation; conveyor jogged unexpectedly.
+INC-0103,2025-10-14,Lanjigarh Refinery,Material Handling,Slip / Trip / Fall (same level),Minor,Dumper,Housekeeping,,Trip over cabling left across a walkway.
+INC-0093,2025-03-31,Lanjigarh Refinery,Cast House,Crane / Lifting Failure,Minor,Forklift,Personnel under load,SOP-CRN-005,Frayed sling parted mid-lift; load dropped within barricaded zone.
+INC-0051,2025-12-22,Debari Zinc,Hydrometallurgy,Vehicle / Mobile Equipment,First Aid,Crane,Blind spot,SOP-MOB-007,Pedestrian crossed a haul road outside the walkway near a reversing dumper.
+INC-0114,2025-06-04,Chanderiya Zinc,Maintenance Workshop,Slip / Trip / Fall (same level),First Aid,Forklift,Oil spill,,Trip over cabling left across a walkway.
+INC-0066,2025-12-07,Rampura Agucha Mine,Maintenance Workshop,Vehicle / Mobile Equipment,First Aid,Pump,Blind spot,SOP-MOB-007,Forklift reversed without a spotter in a congested store.
+INC-0065,2025-06-06,Lanjigarh Refinery,Material Handling,Confined Space Exposure,Minor,Pump,Atmosphere not tested,SOP-CSE-002,Entry made on an expired permit without re-testing atmosphere.
+INC-0097,2025-10-25,Debari Zinc,Crusher Plant,Molten Metal Burn,Minor,Dumper,Moisture on tool,SOP-HMM-004,Damp skimmer caused molten metal spatter during tapping.
+INC-0077,2025-04-17,Debari Zinc,Crusher Plant,Molten Metal Burn,Serious,Crane,Exclusion zone breached,SOP-HMM-004,Damp skimmer caused molten metal spatter during tapping.
+INC-0072,2025-03-27,Chanderiya Zinc,Pot Room,Crane / Lifting Failure,Minor,Conveyor,Defective sling,SOP-CRN-005,Frayed sling parted mid-lift; load dropped within barricaded zone.
+INC-0005,2025-07-04,Rampura Agucha Mine,Pot Room,LOTO Bypass / Hazardous Energy,High Potential,Forklift,Isolation not verified,SOP-LOTO-001,Try-out step skipped; equipment energised while guard was open.
+INC-0109,2025-02-01,Debari Zinc,Power Plant,Fall from Height,Minor,Panel,Invalid scaffold tag,SOP-WAH-003,Worker un-clipped lanyard to reposition and lost balance near an open edge.
+INC-0100,2025-11-10,Debari Zinc,Material Handling,Slip / Trip / Fall (same level),High Potential,Dumper,Oil spill,,Worker slipped on an unmarked oil patch near a pump.
+INC-0036,2025-05-17,Debari Zinc,Crusher Plant,Vehicle / Mobile Equipment,First Aid,Crane,No pedestrian segregation,SOP-MOB-007,Forklift reversed without a spotter in a congested store.
+INC-0029,2025-01-05,Chanderiya Zinc,Cast House,Molten Metal Burn,First Aid,Forklift,Moisture on tool,SOP-HMM-004,Operator entered casting bay without face shield during a pour.
+INC-0020,2026-05-02,Lanjigarh Refinery,Maintenance Workshop,Fall from Height,Serious,Forklift,Harness not anchored,SOP-WAH-003,Anchor point below shoulder height failed to arrest a short fall.
+INC-0003,2025-12-17,Jharsuguda Smelter,Pot Room,LOTO Bypass / Hazardous Energy,Minor,Crane,Isolation not verified,SOP-LOTO-001,Lockout omitted on a second energy source; hydraulic ram drifted during service.
+INC-0007,2026-01-20,Lanjigarh Refinery,Pot Room,LOTO Bypass / Hazardous Energy,Minor,Forklift,Isolation not verified,SOP-LOTO-001,Try-out step skipped; equipment energised while guard was open.
+INC-0009,2026-01-09,BALCO Korba,Pot Room,LOTO Bypass / Hazardous Energy,First Aid,Crane,Isolation not verified,SOP-LOTO-001,Try-out step skipped; equipment energised while guard was open.
+INC-0017,2025-03-04,Lanjigarh Refinery,Maintenance Workshop,Fall from Height,Near Miss,Conveyor,Harness not anchored,SOP-WAH-003,Anchor point below shoulder height failed to arrest a short fall.
+INC-0013,2025-07-27,Debari Zinc,Pot Room,LOTO Bypass / Hazardous Energy,Minor,Ladder,Isolation not verified,SOP-LOTO-001,Try-out step skipped; equipment energised while guard was open.
+INC-0104,2026-02-25,BALCO Korba,Hydrometallurgy,Electrical Shock / Arc Flash,Minor,Furnace,No test-before-touch,SOP-ELE-006,Capacitive energy not discharged; technician received a shock.
+INC-0067,2026-01-27,Chanderiya Zinc,Pot Room,LOTO Bypass / Hazardous Energy,High Potential,Panel,Lock not applied,SOP-LOTO-001,Lockout omitted on a second energy source; hydraulic ram drifted during service.
+INC-0047,2025-06-15,Debari Zinc,Cast House,Crane / Lifting Failure,First Aid,Conveyor,Defective sling,SOP-CRN-005,Frayed sling parted mid-lift; load dropped within barricaded zone.
+INC-0015,2025-09-13,Lanjigarh Refinery,Maintenance Workshop,Fall from Height,Near Miss,Conveyor,Harness not anchored,SOP-WAH-003,Scaffold platform plank shifted; worker was not tied off.
+INC-0058,2025-08-21,Lanjigarh Refinery,Alumina Refinery,Crane / Lifting Failure,Near Miss,Pump,Defective sling,SOP-CRN-005,Frayed sling parted mid-lift; load dropped within barricaded zone.
+INC-0105,2025-10-25,Debari Zinc,Material Handling,Slip / Trip / Fall (same level),Serious,Conveyor,Oil spill,,Worker slipped on an unmarked oil patch near a pump.
+INC-0096,2025-03-20,Lanjigarh Refinery,Pot Room,Confined Space Exposure,First Aid,Dumper,Ventilation stopped,SOP-CSE-002,Entrant felt dizzy; gas monitor showed low O2 after ventilation tripped.
+INC-0115,2025-09-04,Rampura Agucha Mine,Material Handling,Molten Metal Burn,Near Miss,Forklift,Moisture on tool,SOP-HMM-004,Operator entered casting bay without face shield during a pour.
+INC-0108,2025-07-30,BALCO Korba,Alumina Refinery,LOTO Bypass / Hazardous Energy,High Potential,Dumper,Stored energy not released,SOP-LOTO-001,Lockout omitted on a second energy source; hydraulic ram drifted during service.
+INC-0044,2026-03-19,Lanjigarh Refinery,Pot Room,Confined Space Exposure,First Aid,Conveyor,Ventilation stopped,SOP-CSE-002,Entrant felt dizzy; gas monitor showed low O2 after ventilation tripped.
+INC-0061,2026-06-17,Chanderiya Zinc,Pot Room,Confined Space Exposure,Minor,Crane,Ventilation stopped,SOP-CSE-002,Entrant felt dizzy; gas monitor showed low O2 after ventilation tripped.
+INC-0001,2025-09-17,Rampura Agucha Mine,Pot Room,LOTO Bypass / Hazardous Energy,High Potential,Conveyor,Isolation not verified,SOP-LOTO-001,Try-out step skipped; equipment energised while guard was open.
+INC-0018,2025-03-16,Rampura Agucha Mine,Maintenance Workshop,Fall from Height,First Aid,Ladder,Harness not anchored,SOP-WAH-003,Anchor point below shoulder height failed to arrest a short fall.
+INC-0069,2025-06-21,Chanderiya Zinc,Alumina Refinery,Vehicle / Mobile Equipment,High Potential,Conveyor,Blind spot,SOP-MOB-007,Pedestrian crossed a haul road outside the walkway near a reversing dumper.
+INC-0043,2025-04-27,Jharsuguda Smelter,Alumina Refinery,LOTO Bypass / Hazardous Energy,Minor,Ladder,Stored energy not released,SOP-LOTO-001,Try-out step skipped; equipment energised while guard was open.
+INC-0054,2026-02-25,BALCO Korba,Material Handling,Crane / Lifting Failure,Minor,Furnace,SWL exceeded,SOP-CRN-005,Rigger stood under a suspended load while guiding it by hand.
+INC-0086,2026-01-15,Chanderiya Zinc,Hydrometallurgy,Crane / Lifting Failure,First Aid,Ladder,Defective sling,SOP-CRN-005,Rigger stood under a suspended load while guiding it by hand.
+INC-0081,2025-11-29,Lanjigarh Refinery,Cast House,Crane / Lifting Failure,First Aid,Dumper,SWL exceeded,SOP-CRN-005,Rigger stood under a suspended load while guiding it by hand.
+INC-0090,2025-10-29,Debari Zinc,Alumina Refinery,LOTO Bypass / Hazardous Energy,Minor,Dumper,Isolation not verified,SOP-LOTO-001,Technician began belt maintenance before confirming isolation; conveyor jogged unexpectedly.
+INC-0118,2025-03-20,Chanderiya Zinc,Crusher Plant,Confined Space Exposure,First Aid,Forklift,No standby attendant,SOP-CSE-002,Entrant felt dizzy; gas monitor showed low O2 after ventilation tripped.
+INC-0063,2025-09-25,Lanjigarh Refinery,Crusher Plant,Slip / Trip / Fall (same level),Serious,Dumper,Poor lighting,,Worker slipped on an unmarked oil patch near a pump.
+INC-0098,2025-07-24,Chanderiya Zinc,Cast House,Crane / Lifting Failure,Minor,Furnace,Defective sling,SOP-CRN-005,Frayed sling parted mid-lift; load dropped within barricaded zone.
+INC-0094,2026-04-09,Chanderiya Zinc,Crusher Plant,Vehicle / Mobile Equipment,Serious,Forklift,Blind spot,SOP-MOB-007,Pedestrian crossed a haul road outside the walkway near a reversing dumper.
+INC-0095,2025-08-03,Debari Zinc,Power Plant,Fall from Height,First Aid,Crane,Harness not anchored,SOP-WAH-003,Worker un-clipped lanyard to reposition and lost balance near an open edge.
+INC-0092,2025-03-10,Chanderiya Zinc,Maintenance Workshop,Fall from Height,Near Miss,Conveyor,Harness not anchored,SOP-WAH-003,Worker un-clipped lanyard to reposition and lost balance near an open edge.
+INC-0014,2026-01-20,Chanderiya Zinc,Pot Room,LOTO Bypass / Hazardous Energy,High Potential,Pump,Isolation not verified,SOP-LOTO-001,Technician began belt maintenance before confirming isolation; conveyor jogged unexpectedly.
+INC-0062,2025-11-23,Chanderiya Zinc,Material Handling,Slip / Trip / Fall (same level),Serious,Dumper,Housekeeping,,Trip over cabling left across a walkway.
+INC-0050,2025-01-31,Jharsuguda Smelter,Crusher Plant,Electrical Shock / Arc Flash,Near Miss,Panel,Live work without permit,SOP-ELE-006,Panel assumed dead; arc flash occurred when test-before-touch was skipped.
+INC-0026,2026-04-01,Rampura Agucha Mine,Cast House,Molten Metal Burn,First Aid,Ladder,Moisture on tool,SOP-HMM-004,Damp skimmer caused molten metal spatter during tapping.
+INC-0074,2025-05-12,Chanderiya Zinc,Cast House,Molten Metal Burn,Minor,Pump,Inadequate PPE,SOP-HMM-004,Operator entered casting bay without face shield during a pour.
+INC-0084,2025-03-31,Lanjigarh Refinery,Material Handling,Molten Metal Burn,First Aid,Pump,Exclusion zone breached,SOP-HMM-004,Operator entered casting bay without face shield during a pour.
+INC-0083,2025-09-24,BALCO Korba,Crusher Plant,Electrical Shock / Arc Flash,Serious,Panel,Earthing not applied,SOP-ELE-006,Panel assumed dead; arc flash occurred when test-before-touch was skipped.
+INC-0055,2025-06-30,Rampura Agucha Mine,Crusher Plant,Vehicle / Mobile Equipment,First Aid,Conveyor,Blind spot,SOP-MOB-007,Forklift reversed without a spotter in a congested store.
+INC-0117,2026-03-29,Jharsuguda Smelter,Maintenance Workshop,Fall from Height,Near Miss,Furnace,No edge protection,SOP-WAH-003,Scaffold platform plank shifted; worker was not tied off.
+INC-0045,2025-04-18,BALCO Korba,Material Handling,Molten Metal Burn,High Potential,Furnace,Moisture on tool,SOP-HMM-004,Damp skimmer caused molten metal spatter during tapping.
+INC-0120,2025-10-24,Lanjigarh Refinery,Cast House,Molten Metal Burn,First Aid,Crane,Exclusion zone breached,SOP-HMM-004,Damp skimmer caused molten metal spatter during tapping.
+INC-0010,2025-03-24,Jharsuguda Smelter,Pot Room,LOTO Bypass / Hazardous Energy,Serious,Forklift,Isolation not verified,SOP-LOTO-001,Technician began belt maintenance before confirming isolation; conveyor jogged unexpectedly.
+INC-0021,2025-07-16,Jharsuguda Smelter,Maintenance Workshop,Fall from Height,First Aid,Pump,Harness not anchored,SOP-WAH-003,Anchor point below shoulder height failed to arrest a short fall.
+INC-0070,2026-03-17,Lanjigarh Refinery,Maintenance Workshop,Fall from Height,Near Miss,Panel,No edge protection,SOP-WAH-003,Anchor point below shoulder height failed to arrest a short fall.
+INC-0037,2025-03-19,Rampura Agucha Mine,Power Plant,Fall from Height,Minor,Furnace,No edge protection,SOP-WAH-003,Worker un-clipped lanyard to reposition and lost balance near an open edge.
+INC-0087,2025-11-12,BALCO Korba,Power Plant,Crane / Lifting Failure,Near Miss,Pump,Defective sling,SOP-CRN-005,Frayed sling parted mid-lift; load dropped within barricaded zone.
+INC-0002,2025-04-30,Debari Zinc,Pot Room,LOTO Bypass / Hazardous Energy,High Potential,Forklift,Isolation not verified,SOP-LOTO-001,Lockout omitted on a second energy source; hydraulic ram drifted during service.
+INC-0085,2026-04-06,Jharsuguda Smelter,Cast House,Slip / Trip / Fall (same level),First Aid,Forklift,Poor lighting,,Worker slipped on an unmarked oil patch near a pump.
+INC-0059,2026-03-03,Debari Zinc,Power Plant,Slip / Trip / Fall (same level),Minor,Forklift,Oil spill,,Trip over cabling left across a walkway.
+INC-0033,2026-06-07,Jharsuguda Smelter,Alumina Refinery,LOTO Bypass / Hazardous Energy,Near Miss,Crane,Stored energy not released,SOP-LOTO-001,Technician began belt maintenance before confirming isolation; conveyor jogged unexpectedly.
+INC-0082,2025-12-13,Jharsuguda Smelter,Maintenance Workshop,Vehicle / Mobile Equipment,Serious,Furnace,Blind spot,SOP-MOB-007,Pedestrian crossed a haul road outside the walkway near a reversing dumper.
+INC-0060,2025-06-03,Debari Zinc,Pot Room,Molten Metal Burn,Serious,Crane,Inadequate PPE,SOP-HMM-004,Damp skimmer caused molten metal spatter during tapping.
+INC-0030,2025-10-22,Chanderiya Zinc,Cast House,Molten Metal Burn,Serious,Ladder,Moisture on tool,SOP-HMM-004,Operator entered casting bay without face shield during a pour.
+INC-0106,2025-09-18,BALCO Korba,Cast House,Electrical Shock / Arc Flash,High Potential,Forklift,Earthing not applied,SOP-ELE-006,Panel assumed dead; arc flash occurred when test-before-touch was skipped.
+INC-0075,2025-06-23,Rampura Agucha Mine,Cast House,Electrical Shock / Arc Flash,Serious,Furnace,No test-before-touch,SOP-ELE-006,Panel assumed dead; arc flash occurred when test-before-touch was skipped.
+INC-0064,2026-03-29,Jharsuguda Smelter,Crusher Plant,Crane / Lifting Failure,Near Miss,Ladder,Defective sling,SOP-CRN-005,Frayed sling parted mid-lift; load dropped within barricaded zone.
+INC-0031,2025-06-10,Lanjigarh Refinery,Cast House,Molten Metal Burn,Minor,Conveyor,Moisture on tool,SOP-HMM-004,Damp skimmer caused molten metal spatter during tapping.
+INC-0101,2026-03-21,Debari Zinc,Hydrometallurgy,LOTO Bypass / Hazardous Energy,Minor,Conveyor,Isolation not verified,SOP-LOTO-001,Technician began belt maintenance before confirming isolation; conveyor jogged unexpectedly.
+INC-0080,2025-07-02,Debari Zinc,Crusher Plant,Vehicle / Mobile Equipment,Minor,Dumper,Blind spot,SOP-MOB-007,Forklift reversed without a spotter in a congested store.
+INC-0049,2026-02-15,BALCO Korba,Crusher Plant,Molten Metal Burn,Serious,Panel,Inadequate PPE,SOP-HMM-004,Operator entered casting bay without face shield during a pour.
+INC-0079,2025-04-21,Chanderiya Zinc,Hydrometallurgy,Slip / Trip / Fall (same level),Minor,Dumper,Poor lighting,,Worker slipped on an unmarked oil patch near a pump.
+INC-0011,2025-05-11,Lanjigarh Refinery,Pot Room,LOTO Bypass / Hazardous Energy,Serious,Panel,Isolation not verified,SOP-LOTO-001,Technician began belt maintenance before confirming isolation; conveyor jogged unexpectedly.
+INC-0023,2025-04-13,Jharsuguda Smelter,Maintenance Workshop,Fall from Height,Minor,Furnace,Harness not anchored,SOP-WAH-003,Worker un-clipped lanyard to reposition and lost balance near an open edge.
+INC-0119,2026-01-27,BALCO Korba,Maintenance Workshop,Electrical Shock / Arc Flash,Serious,Conveyor,Earthing not applied,SOP-ELE-006,Panel assumed dead; arc flash occurred when test-before-touch was skipped.
+INC-0024,2025-09-14,Lanjigarh Refinery,Maintenance Workshop,Fall from Height,First Aid,Pump,Harness not anchored,SOP-WAH-003,Worker un-clipped lanyard to reposition and lost balance near an open edge.
+INC-0088,2025-07-18,Lanjigarh Refinery,Maintenance Workshop,Confined Space Exposure,First Aid,Panel,Atmosphere not tested,SOP-CSE-002,Entrant felt dizzy; gas monitor showed low O2 after ventilation tripped.
+INC-0073,2025-02-13,Jharsuguda Smelter,Power Plant,Fall from Height,Near Miss,Conveyor,Invalid scaffold tag,SOP-WAH-003,Worker un-clipped lanyard to reposition and lost balance near an open edge.
+INC-0053,2025-12-07,Rampura Agucha Mine,Hydrometallurgy,Fall from Height,Minor,Crane,Invalid scaffold tag,SOP-WAH-003,Anchor point below shoulder height failed to arrest a short fall.
+INC-0068,2026-05-17,Lanjigarh Refinery,Crusher Plant,Molten Metal Burn,First Aid,Conveyor,Inadequate PPE,SOP-HMM-004,Operator entered casting bay without face shield during a pour.
+INC-0032,2025-11-20,Jharsuguda Smelter,Cast House,Molten Metal Burn,Near Miss,Pump,Moisture on tool,SOP-HMM-004,Damp skimmer caused molten metal spatter during tapping.
+INC-0019,2025-08-10,Rampura Agucha Mine,Maintenance Workshop,Fall from Height,First Aid,Panel,Harness not anchored,SOP-WAH-003,Scaffold platform plank shifted; worker was not tied off.
+INC-0056,2026-03-19,Rampura Agucha Mine,Hydrometallurgy,Molten Metal Burn,First Aid,Dumper,Exclusion zone breached,SOP-HMM-004,Damp skimmer caused molten metal spatter during tapping.
+INC-0048,2026-04-19,BALCO Korba,Crusher Plant,Molten Metal Burn,Serious,Pump,Moisture on tool,SOP-HMM-004,Damp skimmer caused molten metal spatter during tapping.
+INC-0046,2026-03-01,Jharsuguda Smelter,Alumina Refinery,Confined Space Exposure,Minor,Ladder,Ventilation stopped,SOP-CSE-002,Entrant felt dizzy; gas monitor showed low O2 after ventilation tripped.
+INC-0038,2026-01-16,BALCO Korba,Alumina Refinery,Molten Metal Burn,First Aid,Panel,Exclusion zone breached,SOP-HMM-004,Damp skimmer caused molten metal spatter during tapping.
+INC-0008,2025-01-03,Rampura Agucha Mine,Pot Room,LOTO Bypass / Hazardous Energy,Minor,Conveyor,Isolation not verified,SOP-LOTO-001,Technician began belt maintenance before confirming isolation; conveyor jogged unexpectedly.
+INC-0102,2025-10-05,Rampura Agucha Mine,Pot Room,LOTO Bypass / Hazardous Energy,Serious,Furnace,Lock not applied,SOP-LOTO-001,Try-out step skipped; equipment energised while guard was open.
+INC-0042,2025-05-16,Debari Zinc,Crusher Plant,Electrical Shock / Arc Flash,Near Miss,Dumper,Earthing not applied,SOP-ELE-006,Capacitive energy not discharged; technician received a shock.
+INC-0006,2025-11-04,Debari Zinc,Pot Room,LOTO Bypass / Hazardous Energy,Minor,Crane,Isolation not verified,SOP-LOTO-001,Technician began belt maintenance before confirming isolation; conveyor jogged unexpectedly.
+INC-0004,2025-01-06,Debari Zinc,Pot Room,LOTO Bypass / Hazardous Energy,High Potential,Furnace,Isolation not verified,SOP-LOTO-001,Try-out step skipped; equipment energised while guard was open.
+INC-0116,2026-01-28,Chanderiya Zinc,Alumina Refinery,Slip / Trip / Fall (same level),First Aid,Conveyor,Housekeeping,,Trip over cabling left across a walkway.
+INC-0039,2025-04-19,Lanjigarh Refinery,Crusher Plant,Crane / Lifting Failure,Near Miss,Crane,Personnel under load,SOP-CRN-005,Frayed sling parted mid-lift; load dropped within barricaded zone.
+INC-0089,2025-08-23,BALCO Korba,Alumina Refinery,Crane / Lifting Failure,First Aid,Furnace,Defective sling,SOP-CRN-005,Frayed sling parted mid-lift; load dropped within barricaded zone.
+INC-0022,2026-03-12,Chanderiya Zinc,Maintenance Workshop,Fall from Height,Minor,Ladder,Harness not anchored,SOP-WAH-003,Worker un-clipped lanyard to reposition and lost balance near an open edge.
+INC-0057,2025-06-25,Debari Zinc,Cast House,Slip / Trip / Fall (same level),First Aid,Ladder,Housekeeping,,Worker slipped on an unmarked oil patch near a pump.

@@ -1,0 +1,92 @@
+[
+  {
+    "code": "OSHA 1910.147",
+    "title": "The Control of Hazardous Energy (Lockout/Tagout)",
+    "current_version": "2023",
+    "authority": "OSHA",
+    "referencing_sops": [
+      {
+        "sop": "SOP-LOTO-001",
+        "title": "Lockout-Tagout (Control of Hazardous Energy)",
+        "referenced_version": "2019"
+      }
+    ]
+  },
+  {
+    "code": "IS 3764",
+    "title": "Code of Safety for Excavation & Confined Space Work",
+    "current_version": "2024",
+    "authority": "BIS",
+    "referencing_sops": [
+      {
+        "sop": "SOP-CSE-002",
+        "title": "Confined Space Entry",
+        "referenced_version": "2024"
+      }
+    ]
+  },
+  {
+    "code": "ANSI Z359",
+    "title": "Fall Protection Code",
+    "current_version": "2023",
+    "authority": "ANSI",
+    "referencing_sops": [
+      {
+        "sop": "SOP-WAH-003",
+        "title": "Working at Height",
+        "referenced_version": "2020"
+      }
+    ]
+  },
+  {
+    "code": "IS 13367",
+    "title": "Safe Use of Cranes - Code of Practice",
+    "current_version": "2024",
+    "authority": "BIS",
+    "referencing_sops": [
+      {
+        "sop": "SOP-CRN-005",
+        "title": "Crane & Lifting Operations",
+        "referenced_version": "2021"
+      }
+    ]
+  },
+  {
+    "code": "IS 5216",
+    "title": "Recommendations on Safety Procedures - Electrical Work",
+    "current_version": "2023",
+    "authority": "BIS",
+    "referencing_sops": [
+      {
+        "sop": "SOP-ELE-006",
+        "title": "Electrical Isolation & Live Work",
+        "referenced_version": "2023"
+      }
+    ]
+  },
+  {
+    "code": "ICMM CCM",
+    "title": "Critical Control Management - Good Practice Guide",
+    "current_version": "2024",
+    "authority": "ICMM",
+    "referencing_sops": [
+      {
+        "sop": "SOP-HMM-004",
+        "title": "Hot Work & Molten Metal Handling",
+        "referenced_version": "2024"
+      },
+      {
+        "sop": "SOP-MOB-007",
+        "title": "Mobile Equipment & Vehicle Interaction",
+        "referenced_version": "2022"
+      }
+    ]
+  },
+  {
+    "code": "IS 4081",
+    "title": "Safety Code for Blasting & Related Drilling Operations",
+    "current_version": "2022",
+    "authority": "BIS",
+    "referencing_sops": []
+  }
+]

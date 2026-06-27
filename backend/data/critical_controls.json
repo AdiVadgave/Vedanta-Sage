@@ -1,0 +1,198 @@
+[
+  {
+    "control": "Identify all energy sources (electrical, hydraulic, pneumatic, thermal, gravity).",
+    "linked_sop": "SOP-LOTO-001",
+    "hazard": "Unexpected energisation or release of stored energy during servicing.",
+    "verification": "Permit audit",
+    "frequency": "Per shift"
+  },
+  {
+    "control": "Notify affected personnel before isolation.",
+    "linked_sop": "SOP-LOTO-001",
+    "hazard": "Unexpected energisation or release of stored energy during servicing.",
+    "verification": "Field verification by supervisor",
+    "frequency": "Per shift"
+  },
+  {
+    "control": "Shut down equipment using normal stopping procedure.",
+    "linked_sop": "SOP-LOTO-001",
+    "hazard": "Unexpected energisation or release of stored energy during servicing.",
+    "verification": "Field verification by supervisor",
+    "frequency": "Per task"
+  },
+  {
+    "control": "Isolate every energy source at the disconnect point.",
+    "linked_sop": "SOP-LOTO-001",
+    "hazard": "Unexpected energisation or release of stored energy during servicing.",
+    "verification": "Monthly critical-control assurance check",
+    "frequency": "Daily"
+  },
+  {
+    "control": "Valid confined space entry permit before every entry.",
+    "linked_sop": "SOP-CSE-002",
+    "hazard": "Oxygen deficiency, toxic/flammable atmosphere, engulfment, entrapment.",
+    "verification": "Pre-task checklist sign-off",
+    "frequency": "Per shift"
+  },
+  {
+    "control": "Continuous atmospheric monitoring (O2, LEL, H2S, CO).",
+    "linked_sop": "SOP-CSE-002",
+    "hazard": "Oxygen deficiency, toxic/flammable atmosphere, engulfment, entrapment.",
+    "verification": "Field verification by supervisor",
+    "frequency": "Per shift"
+  },
+  {
+    "control": "Mechanical/forced ventilation maintained throughout entry.",
+    "linked_sop": "SOP-CSE-002",
+    "hazard": "Oxygen deficiency, toxic/flammable atmosphere, engulfment, entrapment.",
+    "verification": "Pre-task checklist sign-off",
+    "frequency": "Per task"
+  },
+  {
+    "control": "Trained standby attendant stationed at entry point at all times.",
+    "linked_sop": "SOP-CSE-002",
+    "hazard": "Oxygen deficiency, toxic/flammable atmosphere, engulfment, entrapment.",
+    "verification": "Field verification by supervisor",
+    "frequency": "Per task"
+  },
+  {
+    "control": "Work-at-height permit for any task above 1.8 m.",
+    "linked_sop": "SOP-WAH-003",
+    "hazard": "Fall from height, falling objects, structural collapse.",
+    "verification": "Pre-task checklist sign-off",
+    "frequency": "Daily"
+  },
+  {
+    "control": "100% tie-off using full-body harness and double lanyard.",
+    "linked_sop": "SOP-WAH-003",
+    "hazard": "Fall from height, falling objects, structural collapse.",
+    "verification": "Pre-task checklist sign-off",
+    "frequency": "Per task"
+  },
+  {
+    "control": "Certified anchor points rated for fall arrest.",
+    "linked_sop": "SOP-WAH-003",
+    "hazard": "Fall from height, falling objects, structural collapse.",
+    "verification": "Field verification by supervisor",
+    "frequency": "Per shift"
+  },
+  {
+    "control": "Edge protection / guardrails and toe boards in place.",
+    "linked_sop": "SOP-WAH-003",
+    "hazard": "Fall from height, falling objects, structural collapse.",
+    "verification": "Pre-task checklist sign-off",
+    "frequency": "Per task"
+  },
+  {
+    "control": "Hot work permit and fire watch for all hot work.",
+    "linked_sop": "SOP-HMM-004",
+    "hazard": "Burns, molten metal splash, fire, explosion from water contact.",
+    "verification": "Monthly critical-control assurance check",
+    "frequency": "Daily"
+  },
+  {
+    "control": "Strictly no moisture on tools, moulds, or launders contacting molten metal.",
+    "linked_sop": "SOP-HMM-004",
+    "hazard": "Burns, molten metal splash, fire, explosion from water contact.",
+    "verification": "Monthly critical-control assurance check",
+    "frequency": "Per task"
+  },
+  {
+    "control": "Aluminised proximity suit and face shield in molten metal zones.",
+    "linked_sop": "SOP-HMM-004",
+    "hazard": "Burns, molten metal splash, fire, explosion from water contact.",
+    "verification": "Pre-task checklist sign-off",
+    "frequency": "Per task"
+  },
+  {
+    "control": "Pre-heated tools only; verify tool dryness before contact.",
+    "linked_sop": "SOP-HMM-004",
+    "hazard": "Burns, molten metal splash, fire, explosion from water contact.",
+    "verification": "Field verification by supervisor",
+    "frequency": "Per shift"
+  },
+  {
+    "control": "Lifting plan approved for all non-routine / critical lifts.",
+    "linked_sop": "SOP-CRN-005",
+    "hazard": "Load drop, crane tip-over, struck-by, pinch points.",
+    "verification": "Pre-task checklist sign-off",
+    "frequency": "Per shift"
+  },
+  {
+    "control": "Valid third-party test certificate for crane and tackle.",
+    "linked_sop": "SOP-CRN-005",
+    "hazard": "Load drop, crane tip-over, struck-by, pinch points.",
+    "verification": "Monthly critical-control assurance check",
+    "frequency": "Per shift"
+  },
+  {
+    "control": "Licensed crane operator and trained rigger/signaller.",
+    "linked_sop": "SOP-CRN-005",
+    "hazard": "Load drop, crane tip-over, struck-by, pinch points.",
+    "verification": "Monthly critical-control assurance check",
+    "frequency": "Daily"
+  },
+  {
+    "control": "SWL never exceeded; load chart available in cab.",
+    "linked_sop": "SOP-CRN-005",
+    "hazard": "Load drop, crane tip-over, struck-by, pinch points.",
+    "verification": "Field verification by supervisor",
+    "frequency": "Per task"
+  },
+  {
+    "control": "Permit-to-work and proven isolation before any electrical work.",
+    "linked_sop": "SOP-ELE-006",
+    "hazard": "Electric shock, arc flash, arc blast.",
+    "verification": "Monthly critical-control assurance check",
+    "frequency": "Per task"
+  },
+  {
+    "control": "Test-before-touch with a proven voltage detector.",
+    "linked_sop": "SOP-ELE-006",
+    "hazard": "Electric shock, arc flash, arc blast.",
+    "verification": "Permit audit",
+    "frequency": "Per task"
+  },
+  {
+    "control": "Apply earthing/grounding after isolation.",
+    "linked_sop": "SOP-ELE-006",
+    "hazard": "Electric shock, arc flash, arc blast.",
+    "verification": "Field verification by supervisor",
+    "frequency": "Per shift"
+  },
+  {
+    "control": "Arc-flash boundary established; appropriate PPE category worn.",
+    "linked_sop": "SOP-ELE-006",
+    "hazard": "Electric shock, arc flash, arc blast.",
+    "verification": "Field verification by supervisor",
+    "frequency": "Per shift"
+  },
+  {
+    "control": "Enforced pedestrian / vehicle segregation and walkways.",
+    "linked_sop": "SOP-MOB-007",
+    "hazard": "Collision, run-over, struck-by mobile equipment.",
+    "verification": "Monthly critical-control assurance check",
+    "frequency": "Per shift"
+  },
+  {
+    "control": "Positive communication before approaching mobile equipment.",
+    "linked_sop": "SOP-MOB-007",
+    "hazard": "Collision, run-over, struck-by mobile equipment.",
+    "verification": "Permit audit",
+    "frequency": "Daily"
+  },
+  {
+    "control": "Proximity detection / cameras fitted and functional.",
+    "linked_sop": "SOP-MOB-007",
+    "hazard": "Collision, run-over, struck-by mobile equipment.",
+    "verification": "Monthly critical-control assurance check",
+    "frequency": "Per shift"
+  },
+  {
+    "control": "Seatbelt use and pre-start inspection for all mobile equipment.",
+    "linked_sop": "SOP-MOB-007",
+    "hazard": "Collision, run-over, struck-by mobile equipment.",
+    "verification": "Monthly critical-control assurance check",
+    "frequency": "Per shift"
+  }
+]

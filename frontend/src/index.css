@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  @apply bg-ink-900 text-slate-200 antialiased;
+  font-family: "Inter", system-ui, sans-serif;
+  background-image: radial-gradient(
+      1200px 600px at 100% -10%,
+      rgba(249, 115, 22, 0.08),
+      transparent
+    ),
+    radial-gradient(900px 500px at -10% 110%, rgba(45, 212, 191, 0.06), transparent);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 6px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
+
+@layer components {
+  .card {
+    @apply rounded-2xl border border-ink-600/60 bg-ink-800/70 backdrop-blur shadow-card;
+  }
+  .glass {
+    @apply border border-white/5 bg-white/[0.03] backdrop-blur-xl;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition-all disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+  .btn-primary {
+    @apply btn bg-sage-500 text-white hover:bg-sage-600 hover:shadow-glow;
+  }
+  .btn-ghost {
+    @apply btn border border-ink-600 bg-ink-700/50 text-slate-200 hover:bg-ink-600/60;
+  }
+  .input {
+    @apply w-full rounded-xl border border-ink-600 bg-ink-900/60 px-4 py-2.5 text-sm text-slate-100 placeholder-slate-500 outline-none transition focus:border-sage-500/70 focus:ring-2 focus:ring-sage-500/20;
+  }
+  .label {
+    @apply mb-1.5 block text-xs font-semibold uppercase tracking-wide text-slate-400;
+  }
+}
+
+/* Markdown content styling */
+.prose-sage h1,
+.prose-sage h2,
+.prose-sage h3 {
+  @apply font-semibold text-slate-100 mt-3 mb-1;
+}
+.prose-sage ul {
+  @apply list-disc pl-5 space-y-1 my-2;
+}
+.prose-sage ol {
+  @apply list-decimal pl-5 space-y-1 my-2;
+}
+.prose-sage p {
+  @apply my-2 leading-relaxed;
+}
+.prose-sage strong {
+  @apply text-sage-300 font-semibold;
+}
+.prose-sage code {
+  @apply rounded bg-ink-700 px-1.5 py-0.5 text-sage-300 text-xs;
+}

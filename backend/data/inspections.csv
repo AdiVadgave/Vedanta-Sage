@@ -1,0 +1,1351 @@
+date,equipment_id,equipment_name,site,area,vibration_mm_s,bearing_temp_c,oil_pressure_bar,hours_since_service,defects_flagged,will_fail
+2026-03-30,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.45,52.3,4.51,1168,0,0
+2026-03-31,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.64,51.5,4.55,1179,0,0
+2026-04-01,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.64,53.7,4.56,1192,0,0
+2026-04-02,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.68,52.6,4.48,1198,0,0
+2026-04-03,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.54,52.4,4.59,1211,0,0
+2026-04-04,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.56,53.6,4.6,1222,0,0
+2026-04-05,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.58,52.6,4.61,1233,0,0
+2026-04-06,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.74,52.9,4.58,1245,0,0
+2026-04-07,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.63,52.3,4.43,1255,0,0
+2026-04-08,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.68,52.4,4.43,1266,0,0
+2026-04-09,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.71,51.6,4.55,1278,0,0
+2026-04-10,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.76,51.9,4.54,1291,1,0
+2026-04-11,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.59,52.6,4.53,1299,0,0
+2026-04-12,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.71,53.2,4.52,1311,0,0
+2026-04-13,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.49,52.1,4.51,1325,0,0
+2026-04-14,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.55,53.4,4.55,1338,0,0
+2026-04-15,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.55,53.7,4.61,1349,0,0
+2026-04-16,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.58,52.5,4.44,1357,0,0
+2026-04-17,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.56,52.0,4.56,1363,0,0
+2026-04-18,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.8,52.1,4.58,1370,0,0
+2026-04-19,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.67,54.0,4.57,1377,0,0
+2026-04-20,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.65,53.3,4.43,1391,0,0
+2026-04-21,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.65,54.5,4.41,1398,0,0
+2026-04-22,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.8,52.5,4.59,1412,0,0
+2026-04-23,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.71,53.5,4.42,1422,0,0
+2026-04-24,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.7,53.6,4.43,1433,0,0
+2026-04-25,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.54,52.0,4.52,1443,0,0
+2026-04-26,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.73,53.4,4.52,1453,0,0
+2026-04-27,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.78,53.1,4.48,1459,0,0
+2026-04-28,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.64,52.4,4.56,1470,0,0
+2026-04-29,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.58,53.1,4.5,1481,0,0
+2026-04-30,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.59,52.2,4.57,1493,0,0
+2026-05-01,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.65,53.8,4.45,1501,0,0
+2026-05-02,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.65,52.1,4.57,1515,0,0
+2026-05-03,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.57,52.9,4.5,1528,1,0
+2026-05-04,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.6,52.9,4.45,1540,0,0
+2026-05-05,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.62,53.8,4.39,1554,0,0
+2026-05-06,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.76,54.0,4.4,1561,0,0
+2026-05-07,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.85,54.5,4.42,1575,1,0
+2026-05-08,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.79,54.7,4.48,1583,0,0
+2026-05-09,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.76,52.8,4.57,1593,0,0
+2026-05-10,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.73,54.0,4.47,1599,0,0
+2026-05-11,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.76,54.7,4.52,1605,0,0
+2026-05-12,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.88,54.1,4.41,1611,0,0
+2026-05-13,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.78,54.9,4.4,1620,1,0
+2026-05-14,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.6,53.4,4.4,1629,0,0
+2026-05-15,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.86,54.6,4.38,1637,0,0
+2026-05-16,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.75,53.6,4.55,1650,0,0
+2026-05-17,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.84,54.7,4.49,1660,0,0
+2026-05-18,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.78,53.2,4.55,1670,0,0
+2026-05-19,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.76,54.0,4.47,1680,0,0
+2026-05-20,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.89,53.8,4.43,1688,0,0
+2026-05-21,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.73,53.9,4.41,1701,0,0
+2026-05-22,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.8,53.5,4.38,1710,0,0
+2026-05-23,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.82,52.8,4.44,1723,1,0
+2026-05-24,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.8,55.5,4.43,1736,0,0
+2026-05-25,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.73,54.7,4.53,1743,0,0
+2026-05-26,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.9,52.9,4.53,1755,0,0
+2026-05-27,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.94,54.0,4.45,1765,1,0
+2026-05-28,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.68,55.8,4.4,1779,0,0
+2026-05-29,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.8,53.7,4.51,1790,0,0
+2026-05-30,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.71,55.1,4.5,1799,0,0
+2026-05-31,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.91,54.4,4.36,1806,0,0
+2026-06-01,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.74,53.7,4.39,1816,0,0
+2026-06-02,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.67,54.9,4.48,1822,0,0
+2026-06-03,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.88,55.8,4.51,1832,0,0
+2026-06-04,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.78,53.7,4.53,1845,0,0
+2026-06-05,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.8,54.7,4.43,1859,0,0
+2026-06-06,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.89,54.9,4.49,1873,0,0
+2026-06-07,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.85,53.3,4.44,1887,0,0
+2026-06-08,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.94,54.5,4.47,1900,0,0
+2026-06-09,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.83,54.7,4.42,1906,0,0
+2026-06-10,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.7,54.0,4.33,1915,0,0
+2026-06-11,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.72,56.2,4.51,1922,0,0
+2026-06-12,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.76,53.7,4.45,1934,0,0
+2026-06-13,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.98,54.4,4.34,1948,0,0
+2026-06-14,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,3.01,54.5,4.35,1957,0,0
+2026-06-15,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.85,55.5,4.4,1969,0,0
+2026-06-16,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.8,56.2,4.46,1976,1,0
+2026-06-17,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,3.0,56.1,4.36,1983,1,0
+2026-06-18,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.94,53.6,4.46,1995,0,0
+2026-06-19,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.96,53.9,4.51,2004,0,0
+2026-06-20,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.91,55.5,4.38,2014,0,0
+2026-06-21,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.86,54.3,4.42,2022,0,0
+2026-06-22,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,3.03,56.4,4.44,2036,0,0
+2026-06-23,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.86,55.8,4.4,2045,0,0
+2026-06-24,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,3.02,55.3,4.5,2059,0,0
+2026-06-25,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.85,53.9,4.4,2070,0,0
+2026-06-26,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.83,55.7,4.42,2077,0,0
+2026-06-27,EQ-CRN-01,Overhead Crane #1,Jharsuguda Smelter,Cast House,2.92,55.1,4.48,2088,0,0
+2026-03-30,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,2.52,55.5,5.84,1447,0,0
+2026-03-31,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,2.58,57.2,5.83,1454,0,0
+2026-04-01,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,2.7,57.1,5.75,1460,0,0
+2026-04-02,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,2.78,60.1,5.77,1472,0,0
+2026-04-03,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,2.98,58.8,5.72,1483,0,0
+2026-04-04,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,3.1,60.4,5.6,1494,1,0
+2026-04-05,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,3.28,61.3,5.66,1500,1,0
+2026-04-06,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,3.36,60.7,5.49,1508,1,0
+2026-04-07,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,3.21,62.9,5.52,1521,1,0
+2026-04-08,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,3.44,62.2,5.55,1535,1,0
+2026-04-09,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,3.62,65.4,5.55,1542,2,0
+2026-04-10,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,3.7,64.5,5.39,1554,2,0
+2026-04-11,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,3.69,66.7,5.34,1561,0,0
+2026-04-12,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,3.75,66.6,5.35,1567,1,0
+2026-04-13,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,4.08,68.2,5.27,1574,1,0
+2026-04-14,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,4.2,69.1,5.27,1584,2,0
+2026-04-15,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,4.3,69.5,5.13,1595,3,0
+2026-04-16,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,4.38,71.1,5.26,1605,2,0
+2026-04-17,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,4.35,72.2,5.1,1613,1,0
+2026-04-18,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,4.56,71.3,5.02,1622,1,0
+2026-04-19,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,4.72,72.3,5.11,1628,1,0
+2026-04-20,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,4.61,73.6,4.99,1636,1,0
+2026-04-21,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,4.82,75.1,5.02,1643,2,0
+2026-04-22,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,4.79,74.7,4.91,1650,3,0
+2026-04-23,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,4.92,74.8,4.83,1663,3,0
+2026-04-24,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,4.97,76.9,4.87,1674,2,0
+2026-04-25,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,5.28,78.2,4.82,1683,3,0
+2026-04-26,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,5.19,77.7,4.77,1690,3,0
+2026-04-27,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,5.48,78.7,4.82,1703,3,0
+2026-04-28,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,5.44,81.3,4.66,1715,2,0
+2026-04-29,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,5.7,81.9,4.74,1723,1,0
+2026-04-30,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,5.7,80.6,4.59,1734,2,0
+2026-05-01,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,5.83,81.6,4.54,1746,2,0
+2026-05-02,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,6.06,82.3,4.58,1752,1,0
+2026-05-03,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,5.99,83.4,4.52,1764,2,0
+2026-05-04,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,6.04,83.8,4.43,1776,2,0
+2026-05-05,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,6.19,85.7,4.49,1788,2,0
+2026-05-06,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,6.44,86.6,4.39,1795,2,0
+2026-05-07,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,6.32,87.6,4.34,1807,1,0
+2026-05-08,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,6.4,86.9,4.23,1821,2,0
+2026-05-09,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,6.59,88.8,4.28,1835,2,0
+2026-05-10,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,6.66,91.0,4.12,1843,2,0
+2026-05-11,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,6.83,90.1,4.08,1856,2,0
+2026-05-12,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,6.81,92.4,4.15,1864,1,0
+2026-05-13,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,7.05,91.7,4.06,1877,3,0
+2026-05-14,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,7.17,92.8,3.94,1886,3,0
+2026-05-15,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,7.15,93.2,4.04,1893,2,0
+2026-05-16,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,7.3,93.7,3.88,1906,2,0
+2026-05-17,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,7.47,95.7,3.88,1919,0,0
+2026-05-18,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,7.48,96.6,3.79,1927,3,0
+2026-05-19,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,7.6,96.0,3.81,1935,3,0
+2026-05-20,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,7.76,99.1,3.88,1943,3,0
+2026-05-21,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,7.79,98.6,3.66,1954,2,0
+2026-05-22,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,7.91,99.7,3.74,1966,1,0
+2026-05-23,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,8.05,99.1,3.58,1975,3,0
+2026-05-24,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,8.05,101.0,3.68,1988,3,1
+2026-05-25,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,8.34,102.9,3.56,1994,2,1
+2026-05-26,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,8.33,103.5,3.58,2003,2,1
+2026-05-27,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,8.41,104.5,3.5,2010,1,1
+2026-05-28,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,8.59,104.0,3.51,2022,3,1
+2026-05-29,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,8.57,103.9,3.4,2032,2,1
+2026-05-30,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,8.7,106.3,3.48,2046,1,1
+2026-05-31,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,9.0,107.7,3.43,2056,1,1
+2026-06-01,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,8.89,108.3,3.37,2068,3,1
+2026-06-02,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,9.04,108.3,3.29,2075,1,1
+2026-06-03,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,9.28,109.2,3.22,2081,1,1
+2026-06-04,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,9.41,110.5,3.22,2088,1,1
+2026-06-05,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,9.47,110.9,3.11,2098,3,1
+2026-06-06,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,9.47,111.3,3.14,2104,1,1
+2026-06-07,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,9.43,113.9,2.99,2117,2,1
+2026-06-08,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,9.74,112.3,3.05,2125,1,1
+2026-06-09,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,9.74,112.9,3.01,2133,1,1
+2026-06-10,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,9.96,114.8,2.86,2140,3,1
+2026-06-11,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,9.9,116.4,2.8,2151,1,1
+2026-06-12,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,9.98,115.4,2.83,2158,3,1
+2026-06-13,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,10.15,118.4,2.89,2166,2,1
+2026-06-14,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,10.19,117.8,2.72,2174,1,1
+2026-06-15,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,10.31,120.3,2.66,2181,2,0
+2026-06-16,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,10.44,118.8,2.65,2188,1,0
+2026-06-17,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,10.53,122.0,2.56,2198,2,0
+2026-06-18,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,10.67,122.0,2.67,2207,3,0
+2026-06-19,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,10.83,122.4,2.67,2218,1,0
+2026-06-20,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,10.92,122.8,2.57,2231,1,0
+2026-06-21,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,10.88,123.3,2.4,2237,2,0
+2026-06-22,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,11.17,125.6,2.43,2249,2,0
+2026-06-23,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,11.14,125.0,2.41,2258,2,0
+2026-06-24,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,11.34,127.2,2.4,2265,2,0
+2026-06-25,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,11.33,126.5,2.41,2272,2,0
+2026-06-26,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,11.59,128.8,2.21,2280,1,0
+2026-06-27,EQ-CRN-02,EOT Crane #2,BALCO Korba,Material Handling,11.62,129.7,2.29,2288,1,0
+2026-03-30,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.57,50.7,5.16,1279,0,0
+2026-03-31,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.8,49.0,5.08,1286,0,0
+2026-04-01,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.76,48.4,5.22,1292,0,0
+2026-04-02,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.57,51.1,5.22,1306,0,0
+2026-04-03,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.59,49.0,5.24,1317,0,0
+2026-04-04,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.67,50.9,5.09,1331,0,0
+2026-04-05,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.65,49.0,5.23,1342,0,0
+2026-04-06,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.59,50.5,5.21,1351,0,0
+2026-04-07,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.73,48.7,5.25,1360,1,0
+2026-04-08,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.65,49.9,5.21,1366,1,0
+2026-04-09,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.73,50.1,5.09,1380,0,0
+2026-04-10,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.76,48.3,5.13,1386,0,0
+2026-04-11,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.68,49.0,5.27,1393,0,0
+2026-04-12,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.58,49.6,5.09,1401,0,0
+2026-04-13,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.69,49.8,5.23,1412,0,0
+2026-04-14,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.49,50.0,5.11,1419,0,0
+2026-04-15,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.6,50.5,5.13,1429,0,0
+2026-04-16,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.67,48.5,5.23,1435,0,0
+2026-04-17,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.64,50.4,5.17,1441,0,0
+2026-04-18,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.43,48.7,5.19,1455,0,0
+2026-04-19,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.45,47.4,5.27,1464,0,0
+2026-04-20,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.59,49.3,5.22,1474,0,0
+2026-04-21,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.45,49.2,5.27,1481,0,0
+2026-04-22,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.4,48.6,5.14,1493,1,0
+2026-04-23,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.59,47.7,5.15,1501,0,0
+2026-04-24,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.56,49.0,5.24,1514,0,0
+2026-04-25,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.45,47.5,5.16,1528,0,0
+2026-04-26,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.37,48.2,5.26,1541,0,0
+2026-04-27,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.5,48.1,5.16,1552,1,0
+2026-04-28,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.43,49.3,5.22,1563,0,0
+2026-04-29,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.37,48.8,5.18,1569,0,0
+2026-04-30,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.63,47.9,5.32,1577,0,0
+2026-05-01,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.53,49.5,5.14,1588,0,0
+2026-05-02,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.37,49.6,5.31,1601,1,0
+2026-05-03,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.33,48.4,5.14,1614,1,0
+2026-05-04,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.34,48.7,5.33,1625,0,0
+2026-05-05,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.34,46.8,5.25,1636,0,0
+2026-05-06,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.41,46.7,5.21,1644,0,0
+2026-05-07,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.47,47.8,5.21,1658,0,0
+2026-05-08,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.34,48.1,5.19,1668,0,0
+2026-05-09,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.27,48.4,5.27,1674,0,0
+2026-05-10,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.44,48.1,5.18,1687,0,0
+2026-05-11,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.55,46.7,5.34,1694,0,0
+2026-05-12,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.35,46.1,5.21,1701,0,0
+2026-05-13,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.25,47.4,5.25,1709,0,0
+2026-05-14,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.4,46.3,5.27,1718,0,0
+2026-05-15,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.31,46.9,5.36,1725,0,0
+2026-05-16,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.24,48.7,5.37,1736,0,0
+2026-05-17,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.22,48.6,5.21,1748,0,0
+2026-05-18,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.26,47.9,5.33,1762,0,0
+2026-05-19,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.21,47.4,5.35,1770,1,0
+2026-05-20,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.44,47.5,5.28,1777,1,0
+2026-05-21,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.21,48.1,5.25,1789,0,0
+2026-05-22,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.37,46.7,5.27,1801,0,0
+2026-05-23,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.31,46.2,5.25,1807,0,0
+2026-05-24,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.36,47.8,5.28,1816,0,0
+2026-05-25,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.28,47.0,5.38,1829,0,0
+2026-05-26,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.27,47.9,5.21,1843,0,0
+2026-05-27,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.18,47.5,5.24,1851,0,0
+2026-05-28,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.26,48.2,5.3,1859,0,0
+2026-05-29,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.4,45.3,5.29,1871,0,0
+2026-05-30,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.4,45.1,5.36,1885,0,0
+2026-05-31,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.28,46.8,5.41,1892,0,0
+2026-06-01,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.19,46.6,5.29,1904,0,0
+2026-06-02,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.24,45.4,5.31,1916,1,0
+2026-06-03,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.16,47.1,5.41,1927,1,0
+2026-06-04,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.17,46.3,5.37,1934,0,0
+2026-06-05,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.3,47.1,5.3,1946,0,0
+2026-06-06,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.34,45.9,5.33,1960,0,0
+2026-06-07,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.11,45.6,5.34,1968,0,0
+2026-06-08,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.11,47.2,5.28,1974,0,0
+2026-06-09,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.26,45.3,5.41,1988,0,0
+2026-06-10,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.11,45.9,5.34,2001,0,0
+2026-06-11,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.3,46.7,5.39,2011,1,0
+2026-06-12,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.26,45.0,5.3,2020,0,0
+2026-06-13,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.03,46.6,5.41,2026,0,0
+2026-06-14,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.25,44.9,5.38,2036,0,0
+2026-06-15,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.28,46.7,5.35,2045,0,0
+2026-06-16,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.12,44.4,5.37,2056,0,0
+2026-06-17,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.2,45.5,5.33,2066,0,0
+2026-06-18,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.2,46.7,5.33,2074,0,0
+2026-06-19,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.24,46.4,5.35,2085,0,0
+2026-06-20,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.27,44.7,5.36,2097,0,0
+2026-06-21,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.21,44.9,5.42,2111,0,0
+2026-06-22,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.07,44.7,5.31,2125,0,0
+2026-06-23,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.03,46.2,5.44,2133,0,0
+2026-06-24,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.01,44.3,5.46,2145,0,0
+2026-06-25,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.02,46.2,5.38,2152,0,0
+2026-06-26,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.13,45.2,5.37,2160,0,0
+2026-06-27,EQ-CNV-01,Bauxite Conveyor BC-1,Lanjigarh Refinery,Crusher Plant,2.09,46.2,5.39,2171,0,0
+2026-03-30,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,2.14,44.8,5.24,635,0,0
+2026-03-31,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,2.21,46.8,5.03,649,1,0
+2026-04-01,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,2.3,48.8,5.02,655,0,0
+2026-04-02,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,2.42,47.6,5.01,665,1,0
+2026-04-03,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,2.53,50.4,5.01,676,1,0
+2026-04-04,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,2.86,50.6,4.99,684,0,0
+2026-04-05,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,2.75,52.3,4.82,690,2,0
+2026-04-06,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,2.99,51.1,4.92,700,0,0
+2026-04-07,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,2.93,52.3,4.86,706,2,0
+2026-04-08,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,3.2,54.4,4.68,712,1,0
+2026-04-09,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,3.24,55.7,4.63,719,2,0
+2026-04-10,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,3.51,56.3,4.68,729,1,0
+2026-04-11,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,3.52,56.3,4.62,738,2,0
+2026-04-12,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,3.52,57.0,4.48,751,3,0
+2026-04-13,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,3.85,58.0,4.46,760,2,0
+2026-04-14,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,3.76,61.1,4.54,770,2,0
+2026-04-15,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,3.9,62.2,4.49,776,1,0
+2026-04-16,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,4.09,61.9,4.39,783,3,0
+2026-04-17,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,4.23,62.9,4.39,796,0,0
+2026-04-18,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,4.26,64.6,4.18,804,2,0
+2026-04-19,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,4.52,64.7,4.25,815,0,0
+2026-04-20,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,4.68,67.0,4.17,828,3,0
+2026-04-21,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,4.66,66.3,4.17,842,2,0
+2026-04-22,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,5.0,68.3,4.05,856,1,0
+2026-04-23,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,5.04,68.7,4.07,868,1,0
+2026-04-24,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,5.12,68.2,4.07,882,0,0
+2026-04-25,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,5.08,70.6,3.89,892,2,0
+2026-04-26,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,5.3,70.8,3.88,905,3,0
+2026-04-27,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,5.59,73.3,3.75,917,3,0
+2026-04-28,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,5.44,73.8,3.82,927,1,0
+2026-04-29,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,5.67,74.0,3.81,936,1,0
+2026-04-30,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,5.83,76.0,3.67,949,2,0
+2026-05-01,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,5.88,77.3,3.75,959,3,0
+2026-05-02,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,6.16,77.3,3.67,971,2,0
+2026-05-03,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,6.29,77.9,3.55,980,2,0
+2026-05-04,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,6.41,80.2,3.53,993,3,0
+2026-05-05,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,6.54,78.7,3.51,1007,1,0
+2026-05-06,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,6.52,82.4,3.35,1015,2,0
+2026-05-07,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,6.67,83.2,3.37,1027,1,0
+2026-05-08,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,6.68,82.7,3.29,1037,3,0
+2026-05-09,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,6.94,84.7,3.23,1051,0,0
+2026-05-10,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,7.03,84.0,3.25,1061,1,0
+2026-05-11,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,7.18,87.3,3.11,1075,2,0
+2026-05-12,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,7.19,86.8,3.14,1087,1,0
+2026-05-13,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,7.47,87.5,2.99,1094,2,0
+2026-05-14,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,7.38,89.5,2.97,1104,2,0
+2026-05-15,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,7.68,88.8,3.0,1115,1,0
+2026-05-16,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,7.78,91.7,2.99,1129,2,0
+2026-05-17,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,7.89,92.2,2.8,1141,1,0
+2026-05-18,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,7.89,92.7,2.75,1151,1,0
+2026-05-19,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,8.05,92.7,2.82,1162,1,0
+2026-05-20,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,8.27,95.8,2.71,1170,1,0
+2026-05-21,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,8.38,94.3,2.61,1180,3,0
+2026-05-22,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,8.35,95.8,2.7,1188,2,0
+2026-05-23,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,8.63,97.7,2.67,1198,3,1
+2026-05-24,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,8.75,97.7,2.5,1206,2,1
+2026-05-25,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,8.79,98.9,2.48,1215,2,1
+2026-05-26,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,9.04,100.5,2.46,1229,1,1
+2026-05-27,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,9.07,101.0,2.5,1238,1,1
+2026-05-28,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,9.26,103.4,2.35,1252,2,1
+2026-05-29,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,9.34,103.1,2.32,1265,2,1
+2026-05-30,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,9.38,105.3,2.21,1279,2,1
+2026-05-31,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,9.53,104.1,2.26,1286,1,1
+2026-06-01,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,9.69,105.7,2.24,1293,2,1
+2026-06-02,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,9.68,105.6,2.04,1303,3,1
+2026-06-03,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,9.78,107.4,2.11,1315,3,1
+2026-06-04,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,9.82,109.4,1.95,1321,1,1
+2026-06-05,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,9.97,110.5,1.95,1328,2,1
+2026-06-06,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,10.31,109.2,1.87,1337,2,1
+2026-06-07,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,10.34,113.0,1.82,1348,1,1
+2026-06-08,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,10.34,111.2,1.86,1360,2,1
+2026-06-09,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,10.64,114.7,1.77,1372,1,1
+2026-06-10,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,10.59,114.8,1.7,1379,1,1
+2026-06-11,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,10.91,116.7,1.8,1392,1,1
+2026-06-12,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,10.85,115.4,1.67,1403,2,1
+2026-06-13,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,10.98,116.0,1.54,1416,2,1
+2026-06-14,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,11.19,118.5,1.53,1427,2,0
+2026-06-15,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,11.37,119.9,1.54,1437,1,0
+2026-06-16,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,11.51,120.1,1.44,1447,2,0
+2026-06-17,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,11.39,120.5,1.48,1461,1,0
+2026-06-18,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,11.71,123.2,1.44,1467,1,0
+2026-06-19,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,11.67,121.6,1.27,1481,2,0
+2026-06-20,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,11.79,124.8,1.32,1491,3,0
+2026-06-21,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,11.95,123.5,1.17,1499,2,0
+2026-06-22,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,12.13,126.1,1.25,1507,2,0
+2026-06-23,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,12.15,126.8,1.04,1518,2,0
+2026-06-24,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,12.44,127.5,1.17,1524,2,0
+2026-06-25,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,12.61,129.1,0.99,1534,3,0
+2026-06-26,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,12.55,130.0,1.07,1541,2,0
+2026-06-27,EQ-CNV-02,Coke Conveyor BC-7,Jharsuguda Smelter,Material Handling,12.72,130.2,1.01,1554,1,0
+2026-03-30,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.94,52.3,4.96,514,0,0
+2026-03-31,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.91,53.3,4.92,522,0,0
+2026-04-01,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.92,53.0,4.85,536,1,0
+2026-04-02,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.96,51.8,5.01,542,0,0
+2026-04-03,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.17,51.9,4.94,555,0,0
+2026-04-04,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.07,53.6,4.98,563,0,0
+2026-04-05,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.09,54.0,4.94,570,0,0
+2026-04-06,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.95,53.9,4.92,582,0,0
+2026-04-07,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.16,53.1,4.99,596,0,0
+2026-04-08,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.93,53.1,4.98,608,0,0
+2026-04-09,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.05,52.0,4.98,620,0,0
+2026-04-10,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.14,53.0,4.9,630,0,0
+2026-04-11,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.98,53.9,4.9,639,2,0
+2026-04-12,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.05,52.9,4.89,648,0,0
+2026-04-13,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.94,53.3,4.87,662,0,0
+2026-04-14,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.1,53.6,4.9,676,0,0
+2026-04-15,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.97,52.3,4.88,688,0,0
+2026-04-16,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.12,52.7,4.95,696,0,0
+2026-04-17,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.14,53.2,4.95,702,1,0
+2026-04-18,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.93,51.8,5.0,714,0,0
+2026-04-19,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.08,53.6,5.0,726,0,0
+2026-04-20,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.08,54.2,4.98,739,0,0
+2026-04-21,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.14,52.3,4.82,753,0,0
+2026-04-22,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.91,52.1,4.81,761,0,0
+2026-04-23,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.1,52.6,4.85,767,0,0
+2026-04-24,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.99,53.9,4.99,778,0,0
+2026-04-25,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.19,52.8,4.89,784,0,0
+2026-04-26,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.93,52.3,5.0,798,0,0
+2026-04-27,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.08,53.5,5.0,811,0,0
+2026-04-28,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.05,52.8,4.93,817,0,0
+2026-04-29,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.15,52.1,4.95,828,0,0
+2026-04-30,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.12,52.3,4.87,840,0,0
+2026-05-01,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.19,52.9,4.88,850,0,0
+2026-05-02,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.97,53.7,4.86,859,0,0
+2026-05-03,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.99,53.3,4.84,866,0,0
+2026-05-04,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.06,51.5,4.98,872,0,0
+2026-05-05,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.19,54.1,4.92,882,0,0
+2026-05-06,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.0,52.2,4.92,888,0,0
+2026-05-07,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.93,52.6,4.98,896,0,0
+2026-05-08,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.01,51.6,4.94,908,0,0
+2026-05-09,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.0,53.2,4.85,921,0,0
+2026-05-10,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.05,52.8,4.96,932,0,0
+2026-05-11,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.96,53.3,4.85,939,0,0
+2026-05-12,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.18,52.1,4.96,947,1,0
+2026-05-13,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.96,54.2,4.93,961,0,0
+2026-05-14,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.09,53.3,4.88,969,0,0
+2026-05-15,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.11,52.9,4.87,980,0,0
+2026-05-16,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.03,52.8,4.87,989,0,0
+2026-05-17,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.22,52.5,4.87,1003,0,0
+2026-05-18,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.04,52.5,4.93,1011,0,0
+2026-05-19,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.06,53.5,4.88,1018,0,0
+2026-05-20,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.13,53.8,4.92,1030,0,0
+2026-05-21,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.04,53.4,4.99,1042,0,0
+2026-05-22,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.0,52.4,4.95,1049,0,0
+2026-05-23,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.21,53.1,4.81,1061,0,0
+2026-05-24,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.12,51.9,4.99,1073,0,0
+2026-05-25,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.12,52.1,4.97,1079,1,0
+2026-05-26,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.2,53.1,4.97,1089,0,0
+2026-05-27,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.1,53.5,4.89,1101,0,0
+2026-05-28,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.04,53.3,4.96,1114,0,0
+2026-05-29,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.94,53.3,4.95,1122,1,0
+2026-05-30,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.22,54.5,4.89,1128,0,0
+2026-05-31,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.18,53.4,4.83,1142,0,0
+2026-06-01,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.14,54.2,4.84,1149,0,0
+2026-06-02,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.22,54.2,4.93,1159,0,0
+2026-06-03,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.0,51.9,4.82,1166,0,0
+2026-06-04,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.13,52.3,4.8,1172,1,0
+2026-06-05,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.03,52.1,4.88,1178,0,0
+2026-06-06,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.05,52.7,4.95,1189,0,0
+2026-06-07,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.2,54.6,4.8,1201,0,0
+2026-06-08,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.2,54.2,4.96,1208,0,0
+2026-06-09,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.24,52.5,4.99,1217,0,0
+2026-06-10,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.25,53.2,4.93,1227,0,0
+2026-06-11,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.18,53.4,4.82,1240,0,0
+2026-06-12,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.21,52.5,4.81,1252,0,0
+2026-06-13,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,1.99,54.2,4.79,1258,0,0
+2026-06-14,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.0,54.1,4.84,1271,0,0
+2026-06-15,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.26,53.7,4.8,1279,0,0
+2026-06-16,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.03,54.8,4.95,1290,0,0
+2026-06-17,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.17,52.9,4.82,1296,0,0
+2026-06-18,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.17,52.4,4.83,1307,0,0
+2026-06-19,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.14,54.4,4.82,1321,0,0
+2026-06-20,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.07,51.9,4.92,1333,0,0
+2026-06-21,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.07,53.7,4.85,1340,0,0
+2026-06-22,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.12,53.4,4.9,1350,0,0
+2026-06-23,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.12,52.1,4.95,1358,1,0
+2026-06-24,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.02,52.0,4.92,1370,0,0
+2026-06-25,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.04,53.0,4.91,1377,1,0
+2026-06-26,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.25,54.4,4.88,1383,0,0
+2026-06-27,EQ-PMP-01,Slurry Pump P-12,Chanderiya Zinc,Hydrometallurgy,2.22,54.3,4.8,1393,0,0
+2026-03-30,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,2.23,47.0,4.86,997,0,0
+2026-03-31,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,2.46,47.3,4.86,1009,0,0
+2026-04-01,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,2.42,47.1,4.73,1022,0,0
+2026-04-02,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,2.66,49.1,4.75,1034,0,0
+2026-04-03,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,2.59,48.2,4.75,1044,0,0
+2026-04-04,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,2.5,47.7,4.67,1050,0,0
+2026-04-05,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,2.65,48.8,4.76,1056,0,0
+2026-04-06,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,2.9,50.2,4.68,1064,2,0
+2026-04-07,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,2.77,51.9,4.59,1074,1,0
+2026-04-08,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,3.03,51.9,4.66,1087,1,0
+2026-04-09,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,2.99,53.0,4.61,1097,1,0
+2026-04-10,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,3.12,53.5,4.53,1109,0,0
+2026-04-11,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,3.02,53.2,4.55,1115,1,0
+2026-04-12,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,3.17,52.7,4.52,1126,2,0
+2026-04-13,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,3.3,53.5,4.47,1140,2,0
+2026-04-14,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,3.19,53.8,4.45,1146,2,0
+2026-04-15,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,3.34,55.4,4.48,1159,1,0
+2026-04-16,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,3.34,55.7,4.45,1168,3,0
+2026-04-17,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,3.55,56.1,4.3,1180,3,0
+2026-04-18,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,3.58,55.0,4.31,1191,1,0
+2026-04-19,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,3.52,55.6,4.39,1200,1,0
+2026-04-20,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,3.56,58.2,4.25,1208,1,0
+2026-04-21,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,3.81,56.8,4.26,1214,2,0
+2026-04-22,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,3.83,59.3,4.26,1222,1,0
+2026-04-23,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,4.0,59.1,4.17,1228,1,0
+2026-04-24,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,3.81,60.0,4.1,1240,0,0
+2026-04-25,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,3.97,58.9,4.13,1252,2,0
+2026-04-26,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,3.96,60.0,4.22,1266,2,0
+2026-04-27,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,4.16,61.7,4.03,1280,2,0
+2026-04-28,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,4.06,62.2,4.06,1290,2,0
+2026-04-29,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,4.37,62.5,4.14,1296,1,0
+2026-04-30,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,4.29,62.3,3.97,1308,1,0
+2026-05-01,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,4.46,62.9,4.03,1320,1,0
+2026-05-02,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,4.48,62.8,3.91,1334,2,0
+2026-05-03,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,4.59,65.4,4.04,1346,1,0
+2026-05-04,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,4.73,66.0,3.9,1360,2,0
+2026-05-05,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,4.77,64.2,3.81,1371,2,0
+2026-05-06,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,4.71,67.1,3.96,1381,3,0
+2026-05-07,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,4.65,67.8,3.88,1390,3,0
+2026-05-08,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,4.73,67.7,3.76,1403,1,0
+2026-05-09,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,4.92,66.3,3.74,1409,1,0
+2026-05-10,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,5.12,67.0,3.81,1418,1,0
+2026-05-11,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,5.2,69.5,3.75,1429,1,0
+2026-05-12,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,5.2,69.2,3.79,1440,2,0
+2026-05-13,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,5.2,69.9,3.74,1446,2,0
+2026-05-14,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,5.11,71.4,3.68,1458,2,0
+2026-05-15,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,5.39,71.9,3.59,1471,2,0
+2026-05-16,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,5.37,70.8,3.65,1477,1,0
+2026-05-17,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,5.49,70.3,3.6,1485,0,0
+2026-05-18,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,5.4,71.8,3.56,1493,1,0
+2026-05-19,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,5.69,71.3,3.51,1501,2,0
+2026-05-20,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,5.63,72.7,3.52,1513,0,0
+2026-05-21,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,5.6,73.8,3.4,1521,1,0
+2026-05-22,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,5.67,75.2,3.4,1527,2,0
+2026-05-23,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,5.82,75.0,3.36,1535,1,0
+2026-05-24,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,5.75,75.2,3.41,1541,2,1
+2026-05-25,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,6.01,75.6,3.38,1547,2,1
+2026-05-26,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,6.05,77.2,3.27,1555,3,1
+2026-05-27,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,5.96,77.0,3.36,1566,2,1
+2026-05-28,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,6.06,77.8,3.33,1580,3,1
+2026-05-29,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,6.36,76.6,3.24,1591,0,1
+2026-05-30,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,6.39,77.0,3.25,1598,2,1
+2026-05-31,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,6.36,79.4,3.25,1605,2,1
+2026-06-01,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,6.3,80.0,3.23,1615,2,1
+2026-06-02,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,6.51,80.2,3.27,1628,2,1
+2026-06-03,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,6.46,80.7,3.2,1637,2,1
+2026-06-04,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,6.5,81.9,3.19,1649,3,1
+2026-06-05,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,6.72,80.0,3.04,1659,3,1
+2026-06-06,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,6.76,82.7,3.0,1670,1,1
+2026-06-07,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,6.67,81.5,3.02,1681,2,1
+2026-06-08,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,6.74,81.9,2.95,1694,2,1
+2026-06-09,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,7.03,83.2,3.05,1708,2,1
+2026-06-10,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,7.02,83.1,3.01,1719,2,1
+2026-06-11,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,7.02,84.2,2.95,1727,3,1
+2026-06-12,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,7.25,85.8,2.96,1738,2,1
+2026-06-13,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,7.32,85.2,2.96,1748,3,1
+2026-06-14,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,7.35,86.9,2.95,1761,1,1
+2026-06-15,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,7.23,86.1,2.84,1775,2,0
+2026-06-16,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,7.28,88.6,2.82,1783,3,0
+2026-06-17,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,7.57,86.5,2.75,1789,2,0
+2026-06-18,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,7.52,86.8,2.77,1799,1,0
+2026-06-19,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,7.51,87.8,2.69,1813,3,0
+2026-06-20,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,7.55,88.6,2.61,1827,3,0
+2026-06-21,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,7.67,88.7,2.73,1837,3,0
+2026-06-22,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,7.91,90.4,2.57,1843,2,0
+2026-06-23,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,7.72,90.6,2.57,1856,1,0
+2026-06-24,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,7.98,91.8,2.61,1869,2,0
+2026-06-25,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,8.04,90.6,2.54,1882,2,0
+2026-06-26,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,8.17,91.6,2.53,1890,0,0
+2026-06-27,EQ-PMP-02,Cooling Water Pump P-3,BALCO Korba,Power Plant,8.23,92.7,2.43,1903,2,0
+2026-03-30,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,2.39,51.3,5.07,432,0,0
+2026-03-31,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,2.46,54.6,5.06,443,0,0
+2026-04-01,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,2.67,54.0,5.02,452,0,0
+2026-04-02,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,2.66,55.4,4.94,465,1,0
+2026-04-03,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,2.61,54.7,5.01,477,1,0
+2026-04-04,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,2.66,54.5,4.98,483,0,0
+2026-04-05,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,2.76,56.5,4.92,492,0,0
+2026-04-06,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,3.02,56.2,4.99,504,0,0
+2026-04-07,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,2.99,57.7,4.87,512,1,0
+2026-04-08,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,3.18,56.5,4.85,523,3,0
+2026-04-09,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,3.1,58.8,4.84,535,1,0
+2026-04-10,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,3.1,58.1,4.79,546,1,0
+2026-04-11,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,3.32,58.7,4.67,552,1,0
+2026-04-12,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,3.48,59.3,4.65,564,0,0
+2026-04-13,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,3.55,61.3,4.68,576,2,0
+2026-04-14,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,3.4,61.9,4.68,585,1,0
+2026-04-15,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,3.59,60.7,4.54,598,2,0
+2026-04-16,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,3.7,61.7,4.65,608,2,0
+2026-04-17,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,3.59,63.3,4.62,615,2,0
+2026-04-18,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,3.82,65.1,4.55,621,3,0
+2026-04-19,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,3.93,64.3,4.61,631,2,0
+2026-04-20,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,4.01,65.8,4.5,637,2,0
+2026-04-21,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,4.06,65.1,4.5,643,3,0
+2026-04-22,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,4.19,65.6,4.35,653,2,0
+2026-04-23,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,4.19,68.1,4.44,666,2,0
+2026-04-24,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,4.16,66.5,4.37,672,3,0
+2026-04-25,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,4.44,67.1,4.33,684,2,0
+2026-04-26,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,4.42,67.8,4.35,695,2,0
+2026-04-27,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,4.32,69.2,4.27,708,1,0
+2026-04-28,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,4.5,70.5,4.24,716,3,0
+2026-04-29,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,4.7,70.1,4.18,730,1,0
+2026-04-30,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,4.72,72.4,4.17,740,3,0
+2026-05-01,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,4.8,71.3,4.21,749,2,0
+2026-05-02,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,4.78,72.8,4.06,763,3,0
+2026-05-03,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,4.88,72.9,4.13,774,3,0
+2026-05-04,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,4.84,72.2,4.15,783,0,0
+2026-05-05,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,4.94,75.1,3.96,791,1,0
+2026-05-06,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,5.12,76.0,4.04,801,0,0
+2026-05-07,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,5.28,74.5,4.03,811,2,0
+2026-05-08,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,5.14,77.2,3.9,824,2,0
+2026-05-09,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,5.32,76.9,3.84,838,1,0
+2026-05-10,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,5.55,77.7,3.81,845,1,0
+2026-05-11,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,5.36,77.6,3.89,851,1,0
+2026-05-12,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,5.63,79.4,3.84,865,1,0
+2026-05-13,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,5.62,79.5,3.86,872,2,0
+2026-05-14,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,5.82,79.4,3.78,883,3,0
+2026-05-15,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,5.95,80.4,3.71,894,2,0
+2026-05-16,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,5.92,79.6,3.62,906,2,0
+2026-05-17,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,5.83,81.8,3.68,919,2,0
+2026-05-18,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,6.09,82.1,3.65,926,1,0
+2026-05-19,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,6.23,83.3,3.71,932,2,0
+2026-05-20,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,6.03,81.8,3.65,946,1,0
+2026-05-21,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,6.14,83.8,3.65,952,2,0
+2026-05-22,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,6.44,84.5,3.48,960,1,0
+2026-05-23,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,6.49,83.6,3.52,967,2,0
+2026-05-24,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,6.56,84.5,3.53,979,1,0
+2026-05-25,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,6.51,84.8,3.48,993,1,0
+2026-05-26,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,6.69,86.8,3.38,1000,2,0
+2026-05-27,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,6.65,86.1,3.33,1006,1,0
+2026-05-28,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,6.73,86.7,3.43,1013,3,1
+2026-05-29,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,6.88,89.5,3.31,1026,1,1
+2026-05-30,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,6.92,88.7,3.38,1032,1,1
+2026-05-31,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,6.86,90.5,3.22,1044,3,1
+2026-06-01,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,7.07,88.9,3.21,1058,2,1
+2026-06-02,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,7.05,89.4,3.13,1066,1,1
+2026-06-03,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,7.11,91.8,3.08,1077,3,1
+2026-06-04,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,7.38,92.7,3.05,1083,1,1
+2026-06-05,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,7.36,91.3,3.19,1096,3,1
+2026-06-06,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,7.49,92.6,3.14,1107,3,1
+2026-06-07,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,7.42,94.9,2.97,1120,3,1
+2026-06-08,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,7.62,93.3,3.0,1133,0,1
+2026-06-09,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,7.57,93.8,3.03,1139,3,1
+2026-06-10,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,7.71,96.3,2.91,1149,0,1
+2026-06-11,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,7.84,95.1,3.03,1158,2,1
+2026-06-12,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,8.03,96.9,2.97,1168,2,1
+2026-06-13,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,7.88,97.1,2.82,1176,1,1
+2026-06-14,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,7.89,99.3,2.89,1190,3,1
+2026-06-15,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,8.19,99.4,2.81,1199,1,1
+2026-06-16,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,8.15,98.2,2.76,1208,2,1
+2026-06-17,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,8.19,100.3,2.83,1214,2,1
+2026-06-18,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,8.39,99.3,2.8,1227,1,1
+2026-06-19,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,8.37,101.4,2.7,1237,2,0
+2026-06-20,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,8.49,102.3,2.73,1244,1,0
+2026-06-21,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,8.55,103.3,2.61,1250,2,0
+2026-06-22,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,8.58,101.6,2.62,1257,2,0
+2026-06-23,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,8.65,103.3,2.61,1266,1,0
+2026-06-24,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,8.89,103.8,2.53,1272,3,0
+2026-06-25,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,8.86,103.3,2.56,1286,2,0
+2026-06-26,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,8.97,105.6,2.59,1293,2,0
+2026-06-27,EQ-RCT-01,Rectifier Transformer R-4,Jharsuguda Smelter,Pot Room,8.96,104.6,2.55,1300,2,0
+2026-03-30,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.45,54.3,4.92,1314,0,0
+2026-03-31,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.25,55.8,4.96,1326,0,0
+2026-04-01,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.34,55.1,4.94,1340,0,0
+2026-04-02,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.44,53.7,4.88,1353,0,0
+2026-04-03,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.26,54.1,5.01,1361,0,0
+2026-04-04,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.48,55.5,4.95,1369,0,0
+2026-04-05,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.41,54.8,4.89,1378,1,0
+2026-04-06,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.36,54.7,4.91,1386,1,0
+2026-04-07,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.55,56.0,4.99,1397,0,0
+2026-04-08,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.43,55.7,4.86,1407,0,0
+2026-04-09,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.49,56.3,4.94,1420,0,0
+2026-04-10,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.31,56.0,4.81,1426,0,0
+2026-04-11,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.34,54.2,4.91,1440,0,0
+2026-04-12,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.33,55.8,4.87,1447,0,0
+2026-04-13,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.52,55.8,4.78,1458,0,0
+2026-04-14,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.46,54.4,4.84,1468,0,0
+2026-04-15,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.58,55.8,4.96,1481,0,0
+2026-04-16,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.5,57.2,4.79,1488,0,0
+2026-04-17,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.54,55.6,4.94,1500,0,0
+2026-04-18,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.52,56.4,4.89,1508,0,0
+2026-04-19,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.56,57.3,4.81,1518,0,0
+2026-04-20,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.66,55.4,4.8,1531,0,0
+2026-04-21,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.49,57.7,4.86,1537,0,0
+2026-04-22,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.46,57.3,4.85,1549,0,0
+2026-04-23,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.66,55.5,4.83,1555,0,0
+2026-04-24,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.56,57.9,4.75,1563,0,0
+2026-04-25,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.77,55.5,4.77,1570,0,0
+2026-04-26,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.52,57.7,4.82,1581,0,0
+2026-04-27,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.71,57.6,4.73,1592,1,0
+2026-04-28,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.63,57.1,4.77,1600,0,0
+2026-04-29,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.58,58.5,4.82,1614,0,0
+2026-04-30,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.78,57.1,4.88,1621,0,0
+2026-05-01,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.64,57.0,4.85,1635,0,0
+2026-05-02,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.57,58.5,4.73,1643,0,0
+2026-05-03,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.87,57.4,4.83,1650,0,0
+2026-05-04,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.6,56.6,4.83,1664,0,0
+2026-05-05,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.61,57.2,4.67,1671,0,0
+2026-05-06,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.88,57.0,4.73,1678,0,0
+2026-05-07,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.8,57.6,4.83,1687,0,0
+2026-05-08,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.86,58.2,4.8,1697,1,0
+2026-05-09,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.86,59.5,4.83,1710,0,0
+2026-05-10,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.94,57.3,4.72,1722,0,0
+2026-05-11,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.9,57.8,4.73,1736,0,0
+2026-05-12,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.85,57.1,4.7,1743,0,0
+2026-05-13,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.9,59.6,4.68,1755,0,0
+2026-05-14,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.73,59.7,4.72,1766,0,0
+2026-05-15,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.75,58.6,4.75,1773,0,0
+2026-05-16,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.02,59.6,4.79,1781,0,0
+2026-05-17,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.92,60.4,4.64,1793,0,0
+2026-05-18,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.93,58.4,4.76,1805,0,0
+2026-05-19,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.06,59.2,4.63,1818,0,0
+2026-05-20,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.96,58.2,4.62,1824,1,0
+2026-05-21,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.84,59.7,4.66,1834,0,0
+2026-05-22,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.03,60.2,4.75,1843,0,0
+2026-05-23,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.97,60.5,4.69,1849,1,0
+2026-05-24,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.1,59.3,4.64,1861,1,0
+2026-05-25,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.03,60.6,4.75,1869,0,0
+2026-05-26,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,2.99,58.7,4.7,1883,0,0
+2026-05-27,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.12,59.9,4.64,1896,0,0
+2026-05-28,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.1,59.4,4.57,1902,0,0
+2026-05-29,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.06,60.9,4.68,1914,0,0
+2026-05-30,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.0,60.7,4.6,1924,0,0
+2026-05-31,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.0,59.8,4.55,1935,1,0
+2026-06-01,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.07,60.2,4.54,1948,0,0
+2026-06-02,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.05,60.7,4.7,1955,0,0
+2026-06-03,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.19,61.1,4.56,1965,0,0
+2026-06-04,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.21,61.5,4.69,1979,0,0
+2026-06-05,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.14,61.7,4.65,1986,0,0
+2026-06-06,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.06,61.1,4.62,1998,0,0
+2026-06-07,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.08,61.9,4.6,2012,0,0
+2026-06-08,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.16,61.6,4.62,2018,0,0
+2026-06-09,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.16,61.6,4.67,2031,0,0
+2026-06-10,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.28,62.5,4.68,2037,0,0
+2026-06-11,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.08,61.9,4.55,2049,0,0
+2026-06-12,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.24,62.5,4.54,2059,0,0
+2026-06-13,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.18,60.4,4.52,2068,0,0
+2026-06-14,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.37,61.4,4.66,2077,0,0
+2026-06-15,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.33,62.2,4.51,2083,1,0
+2026-06-16,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.35,60.6,4.59,2090,0,0
+2026-06-17,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.31,60.7,4.65,2098,0,0
+2026-06-18,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.16,62.5,4.58,2112,0,0
+2026-06-19,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.17,63.0,4.52,2124,0,0
+2026-06-20,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.21,61.0,4.49,2134,0,0
+2026-06-21,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.3,61.9,4.64,2145,0,0
+2026-06-22,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.25,63.2,4.47,2158,1,0
+2026-06-23,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.47,62.8,4.6,2164,0,0
+2026-06-24,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.36,62.0,4.62,2175,0,0
+2026-06-25,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.27,62.5,4.43,2187,0,0
+2026-06-26,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.5,63.5,4.48,2195,0,0
+2026-06-27,EQ-FAN-01,ID Fan F-2,Lanjigarh Refinery,Power Plant,3.46,62.6,4.42,2202,0,0
+2026-03-30,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.58,58.2,5.7,542,1,0
+2026-03-31,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.39,58.7,5.75,550,1,0
+2026-04-01,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.56,57.2,5.67,558,0,0
+2026-04-02,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.5,58.4,5.76,568,0,0
+2026-04-03,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.5,57.3,5.69,580,0,0
+2026-04-04,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.49,59.9,5.79,589,0,0
+2026-04-05,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.64,57.7,5.68,601,0,0
+2026-04-06,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.5,59.0,5.6,615,0,0
+2026-04-07,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.66,57.7,5.74,624,0,0
+2026-04-08,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.69,58.6,5.68,633,0,0
+2026-04-09,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.68,58.8,5.67,641,1,0
+2026-04-10,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.62,58.4,5.7,654,0,0
+2026-04-11,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.79,58.9,5.62,666,0,0
+2026-04-12,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.54,58.0,5.64,675,0,0
+2026-04-13,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.72,60.3,5.71,681,1,0
+2026-04-14,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.83,60.0,5.59,695,0,0
+2026-04-15,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.69,59.1,5.65,702,0,0
+2026-04-16,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.59,58.3,5.58,712,0,0
+2026-04-17,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.83,60.1,5.7,722,0,0
+2026-04-18,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.8,59.8,5.74,736,0,0
+2026-04-19,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.6,58.9,5.59,742,0,0
+2026-04-20,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.63,61.2,5.64,755,0,0
+2026-04-21,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.76,61.1,5.71,762,0,0
+2026-04-22,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.87,60.9,5.69,771,0,0
+2026-04-23,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.8,60.0,5.54,784,1,0
+2026-04-24,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.85,60.9,5.6,791,0,0
+2026-04-25,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.9,60.9,5.61,801,1,0
+2026-04-26,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.86,61.9,5.58,809,0,0
+2026-04-27,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.77,59.3,5.52,821,0,0
+2026-04-28,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.92,60.4,5.51,830,0,0
+2026-04-29,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.92,61.3,5.52,843,0,0
+2026-04-30,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.98,61.2,5.57,850,0,0
+2026-05-01,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.99,60.9,5.6,862,0,0
+2026-05-02,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.79,61.5,5.5,876,0,0
+2026-05-03,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.95,60.1,5.58,890,0,0
+2026-05-04,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.99,60.6,5.67,900,0,0
+2026-05-05,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.78,60.1,5.48,907,0,0
+2026-05-06,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.99,62.4,5.54,914,1,0
+2026-05-07,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.93,62.4,5.63,920,0,0
+2026-05-08,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.97,61.5,5.59,930,0,0
+2026-05-09,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.87,60.4,5.65,940,0,0
+2026-05-10,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.82,60.6,5.48,953,0,0
+2026-05-11,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.05,62.5,5.51,964,0,0
+2026-05-12,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.08,60.7,5.47,973,1,0
+2026-05-13,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.11,61.2,5.57,982,0,0
+2026-05-14,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,2.92,61.5,5.52,995,0,0
+2026-05-15,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.1,62.0,5.52,1001,0,0
+2026-05-16,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.06,63.3,5.43,1007,0,0
+2026-05-17,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.02,62.4,5.53,1021,1,0
+2026-05-18,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.06,63.1,5.6,1034,1,0
+2026-05-19,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.09,62.7,5.46,1046,0,0
+2026-05-20,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.12,62.5,5.49,1054,0,0
+2026-05-21,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.01,61.9,5.58,1065,0,0
+2026-05-22,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.09,64.0,5.54,1077,0,0
+2026-05-23,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.18,63.8,5.55,1085,0,0
+2026-05-24,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.17,61.9,5.43,1098,0,0
+2026-05-25,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.08,62.2,5.39,1104,0,0
+2026-05-26,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.05,64.3,5.48,1111,0,0
+2026-05-27,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.18,63.2,5.57,1122,0,0
+2026-05-28,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.29,64.4,5.54,1129,0,0
+2026-05-29,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.17,64.5,5.39,1136,0,0
+2026-05-30,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.07,63.7,5.46,1144,0,0
+2026-05-31,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.1,63.0,5.45,1158,0,0
+2026-06-01,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.17,64.7,5.38,1167,0,0
+2026-06-02,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.15,64.7,5.42,1181,0,0
+2026-06-03,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.21,64.3,5.39,1195,0,0
+2026-06-04,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.22,63.7,5.43,1209,1,0
+2026-06-05,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.15,62.6,5.5,1216,0,0
+2026-06-06,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.17,62.8,5.48,1224,0,0
+2026-06-07,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.34,64.7,5.43,1234,0,0
+2026-06-08,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.4,65.0,5.38,1245,1,0
+2026-06-09,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.43,65.0,5.41,1254,0,0
+2026-06-10,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.29,64.0,5.48,1266,0,0
+2026-06-11,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.33,64.3,5.45,1274,0,0
+2026-06-12,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.34,64.1,5.37,1282,1,0
+2026-06-13,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.27,65.8,5.36,1294,0,0
+2026-06-14,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.32,65.2,5.37,1300,0,0
+2026-06-15,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.39,63.5,5.36,1309,0,0
+2026-06-16,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.5,65.4,5.39,1318,0,0
+2026-06-17,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.45,65.6,5.42,1332,0,0
+2026-06-18,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.31,66.0,5.37,1340,0,0
+2026-06-19,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.28,66.5,5.37,1353,0,0
+2026-06-20,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.44,66.2,5.44,1366,0,0
+2026-06-21,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.57,66.2,5.35,1374,0,0
+2026-06-22,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.33,66.2,5.43,1381,1,0
+2026-06-23,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.35,65.8,5.44,1388,0,0
+2026-06-24,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.49,64.4,5.28,1399,0,0
+2026-06-25,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.34,64.8,5.4,1411,0,0
+2026-06-26,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.4,66.9,5.34,1418,0,0
+2026-06-27,EQ-MTR-01,Ball Mill Motor M-9,Rampura Agucha Mine,Crusher Plant,3.49,65.4,5.33,1429,0,0
+2026-03-30,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.2,52.6,5.09,1131,0,0
+2026-03-31,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.18,52.5,5.16,1141,0,0
+2026-04-01,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.34,52.9,5.21,1155,0,0
+2026-04-02,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.47,52.3,5.22,1169,0,0
+2026-04-03,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.23,53.5,5.1,1175,0,0
+2026-04-04,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.45,52.5,5.07,1189,0,0
+2026-04-05,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.47,50.9,5.14,1201,1,0
+2026-04-06,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.25,53.9,5.16,1211,0,0
+2026-04-07,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.32,52.2,5.08,1222,0,0
+2026-04-08,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.27,51.5,5.22,1232,0,0
+2026-04-09,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.31,53.4,5.16,1245,0,0
+2026-04-10,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.34,52.2,5.15,1252,0,0
+2026-04-11,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.53,52.1,5.22,1259,0,0
+2026-04-12,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.36,52.6,5.04,1273,0,0
+2026-04-13,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.58,53.8,5.13,1285,0,0
+2026-04-14,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.53,54.4,5.14,1293,1,0
+2026-04-15,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.48,54.1,5.09,1304,0,0
+2026-04-16,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.39,52.1,5.12,1311,0,0
+2026-04-17,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.36,53.4,5.07,1323,0,0
+2026-04-18,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.59,54.6,5.13,1336,0,0
+2026-04-19,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.4,54.7,5.07,1344,1,0
+2026-04-20,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.62,54.0,5.08,1357,0,0
+2026-04-21,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.55,52.2,5.0,1370,0,0
+2026-04-22,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.61,53.2,5.03,1376,0,0
+2026-04-23,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.37,54.4,5.14,1387,0,0
+2026-04-24,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.62,52.9,5.18,1398,1,0
+2026-04-25,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.57,52.3,5.18,1410,0,0
+2026-04-26,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.45,52.9,5.12,1418,0,0
+2026-04-27,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.49,54.2,5.02,1432,0,0
+2026-04-28,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.42,55.4,5.11,1442,1,0
+2026-04-29,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.55,54.6,5.1,1453,0,0
+2026-04-30,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.64,54.1,5.03,1459,0,0
+2026-05-01,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.57,54.1,4.96,1468,0,0
+2026-05-02,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.75,53.5,5.09,1475,0,0
+2026-05-03,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.48,54.8,4.96,1487,0,0
+2026-05-04,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.57,53.7,4.97,1496,0,0
+2026-05-05,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.64,53.7,4.96,1509,0,0
+2026-05-06,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.52,53.3,4.95,1520,0,0
+2026-05-07,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.52,55.6,4.95,1532,0,0
+2026-05-08,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.6,54.4,4.95,1544,0,0
+2026-05-09,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.52,54.5,5.09,1551,0,0
+2026-05-10,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.66,54.4,4.96,1558,1,0
+2026-05-11,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.79,56.2,4.95,1572,0,0
+2026-05-12,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.68,54.3,5.08,1578,0,0
+2026-05-13,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.75,54.7,5.03,1592,0,0
+2026-05-14,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.66,54.8,4.91,1600,0,0
+2026-05-15,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.83,55.0,4.95,1609,0,0
+2026-05-16,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.64,55.2,5.04,1622,0,0
+2026-05-17,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.88,55.7,4.98,1630,0,0
+2026-05-18,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.75,56.7,5.03,1639,0,0
+2026-05-19,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.84,56.5,5.06,1651,0,0
+2026-05-20,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.73,54.3,4.9,1658,0,0
+2026-05-21,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.9,55.3,5.08,1667,0,0
+2026-05-22,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.85,55.3,4.99,1675,0,0
+2026-05-23,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.67,56.8,4.91,1682,0,0
+2026-05-24,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.76,55.5,4.91,1696,0,0
+2026-05-25,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.93,54.7,4.9,1704,0,0
+2026-05-26,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.78,56.3,5.06,1713,0,0
+2026-05-27,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.94,55.5,4.89,1722,0,0
+2026-05-28,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.94,57.6,5.04,1731,0,0
+2026-05-29,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.88,55.3,4.94,1745,0,0
+2026-05-30,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.92,56.4,4.95,1758,0,0
+2026-05-31,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.95,56.9,4.89,1767,0,0
+2026-06-01,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.85,56.1,4.88,1778,0,0
+2026-06-02,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.82,56.6,4.89,1784,0,0
+2026-06-03,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.88,56.3,5.0,1795,1,0
+2026-06-04,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.83,55.4,5.02,1805,0,0
+2026-06-05,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,3.0,58.0,4.85,1812,0,0
+2026-06-06,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.97,56.1,4.98,1822,0,0
+2026-06-07,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,3.04,57.6,4.93,1832,1,0
+2026-06-08,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,3.02,56.7,4.9,1838,0,0
+2026-06-09,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.84,56.7,4.86,1847,0,0
+2026-06-10,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,3.03,57.8,4.91,1854,0,0
+2026-06-11,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,3.02,56.3,4.9,1868,1,0
+2026-06-12,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.92,58.0,4.91,1879,0,0
+2026-06-13,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.95,58.2,4.91,1890,1,0
+2026-06-14,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.88,58.8,5.0,1902,0,0
+2026-06-15,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,3.01,56.6,4.82,1915,0,0
+2026-06-16,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,3.06,56.6,4.96,1928,1,0
+2026-06-17,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.99,56.8,4.85,1942,0,0
+2026-06-18,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.93,58.8,4.87,1950,0,0
+2026-06-19,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,3.11,57.4,4.96,1959,0,0
+2026-06-20,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,3.11,57.8,4.9,1969,0,0
+2026-06-21,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,2.99,56.4,4.8,1976,0,0
+2026-06-22,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,3.01,58.2,4.87,1989,0,0
+2026-06-23,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,3.19,57.9,4.91,1999,0,0
+2026-06-24,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,3.06,57.2,4.89,2011,0,0
+2026-06-25,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,3.11,57.9,4.95,2020,0,0
+2026-06-26,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,3.11,58.8,4.77,2029,0,0
+2026-06-27,EQ-CMP-01,Air Compressor C-5,Debari Zinc,Maintenance Workshop,3.0,58.0,4.9,2043,0,0
+2026-03-30,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,2.22,45.8,5.48,1151,1,0
+2026-03-31,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,2.3,47.5,5.5,1158,0,0
+2026-04-01,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,2.41,47.4,5.43,1166,2,0
+2026-04-02,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,2.46,48.3,5.42,1173,1,0
+2026-04-03,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,2.59,47.9,5.45,1187,0,0
+2026-04-04,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,2.78,49.9,5.41,1194,1,0
+2026-04-05,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,2.63,51.0,5.39,1203,2,0
+2026-04-06,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,2.84,52.3,5.27,1212,1,0
+2026-04-07,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,2.82,52.6,5.3,1220,1,0
+2026-04-08,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,2.98,52.6,5.26,1234,2,0
+2026-04-09,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,3.0,52.4,5.1,1245,3,0
+2026-04-10,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,3.25,53.0,5.19,1251,3,0
+2026-04-11,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,3.32,55.7,5.05,1265,0,0
+2026-04-12,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,3.3,53.8,5.06,1277,0,0
+2026-04-13,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,3.41,56.1,5.14,1288,1,0
+2026-04-14,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,3.4,57.6,5.02,1302,2,0
+2026-04-15,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,3.78,56.2,5.02,1309,1,0
+2026-04-16,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,3.75,56.4,4.94,1319,2,0
+2026-04-17,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,3.72,59.1,5.02,1332,2,0
+2026-04-18,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,3.93,59.9,4.9,1344,2,0
+2026-04-19,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,4.07,59.3,4.81,1358,1,0
+2026-04-20,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,4.15,61.0,4.77,1370,2,0
+2026-04-21,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,4.01,61.1,4.88,1376,2,0
+2026-04-22,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,4.1,62.1,4.82,1385,2,0
+2026-04-23,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,4.26,63.2,4.67,1393,2,0
+2026-04-24,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,4.54,62.3,4.76,1406,2,0
+2026-04-25,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,4.38,63.7,4.65,1418,0,0
+2026-04-26,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,4.42,64.2,4.69,1428,2,0
+2026-04-27,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,4.58,65.1,4.58,1440,3,0
+2026-04-28,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,4.8,65.0,4.63,1446,2,0
+2026-04-29,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,4.82,67.9,4.6,1457,2,0
+2026-04-30,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,4.78,68.4,4.58,1464,3,0
+2026-05-01,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,4.98,67.2,4.53,1475,2,0
+2026-05-02,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,5.14,69.1,4.5,1484,2,0
+2026-05-03,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,5.21,69.9,4.42,1492,2,0
+2026-05-04,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,5.18,70.3,4.44,1500,1,0
+2026-05-05,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,5.46,70.4,4.33,1507,3,0
+2026-05-06,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,5.52,70.6,4.24,1521,2,0
+2026-05-07,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,5.48,73.2,4.29,1528,2,0
+2026-05-08,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,5.69,72.1,4.15,1540,2,0
+2026-05-09,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,5.68,72.2,4.23,1552,1,0
+2026-05-10,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,5.67,73.7,4.18,1561,3,0
+2026-05-11,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,5.87,73.9,4.05,1569,1,0
+2026-05-12,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,6.05,75.3,4.16,1576,2,0
+2026-05-13,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,5.98,75.5,4.01,1585,2,0
+2026-05-14,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,5.97,77.6,3.91,1591,3,0
+2026-05-15,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,6.22,79.0,4.02,1604,3,0
+2026-05-16,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,6.24,79.4,4.04,1613,1,0
+2026-05-17,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,6.23,78.5,3.87,1620,2,0
+2026-05-18,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,6.55,80.9,3.77,1627,1,0
+2026-05-19,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,6.63,79.9,3.86,1640,2,0
+2026-05-20,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,6.66,82.3,3.76,1651,0,0
+2026-05-21,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,6.76,80.8,3.76,1658,1,0
+2026-05-22,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,6.78,82.8,3.77,1665,2,0
+2026-05-23,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,6.77,83.1,3.71,1679,3,0
+2026-05-24,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,7.06,85.2,3.76,1692,3,0
+2026-05-25,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,7.09,83.6,3.57,1699,2,0
+2026-05-26,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,7.26,84.5,3.57,1709,3,0
+2026-05-27,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,7.34,84.6,3.49,1723,1,0
+2026-05-28,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,7.25,85.6,3.54,1730,1,0
+2026-05-29,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,7.46,86.7,3.52,1744,2,0
+2026-05-30,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,7.4,87.2,3.38,1755,0,1
+2026-05-31,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,7.44,88.1,3.49,1767,3,1
+2026-06-01,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,7.65,90.2,3.49,1778,0,1
+2026-06-02,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,7.62,90.3,3.37,1785,3,1
+2026-06-03,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,7.71,91.8,3.39,1798,2,1
+2026-06-04,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,7.97,92.2,3.35,1804,2,1
+2026-06-05,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,7.87,93.4,3.29,1817,2,1
+2026-06-06,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,8.21,91.2,3.28,1825,1,1
+2026-06-07,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,8.25,93.9,3.09,1833,1,1
+2026-06-08,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,8.34,95.2,3.08,1839,2,1
+2026-06-09,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,8.47,95.4,3.09,1853,1,1
+2026-06-10,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,8.47,95.4,3.0,1864,1,1
+2026-06-11,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,8.6,96.6,3.04,1872,3,1
+2026-06-12,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,8.7,95.8,3.07,1881,1,1
+2026-06-13,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,8.69,97.9,3.08,1889,1,1
+2026-06-14,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,8.65,96.7,2.92,1902,2,1
+2026-06-15,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,8.88,99.0,3.0,1914,3,1
+2026-06-16,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,8.87,99.7,2.81,1926,0,1
+2026-06-17,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,8.89,100.0,2.91,1938,2,1
+2026-06-18,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,8.98,99.5,2.81,1952,2,1
+2026-06-19,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,9.18,102.0,2.69,1960,1,1
+2026-06-20,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,9.21,101.0,2.7,1974,2,1
+2026-06-21,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,9.37,102.9,2.77,1987,2,0
+2026-06-22,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,9.53,104.0,2.72,1996,1,0
+2026-06-23,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,9.55,103.2,2.65,2007,3,0
+2026-06-24,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,9.51,105.1,2.67,2013,3,0
+2026-06-25,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,9.83,104.6,2.66,2019,2,0
+2026-06-26,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,9.9,105.6,2.54,2027,2,0
+2026-06-27,EQ-DMP-01,Haul Dumper HD-21,Rampura Agucha Mine,Crusher Plant,10.01,106.5,2.51,2036,1,0
+2026-03-30,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,2.68,47.6,4.75,1342,0,0
+2026-03-31,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,2.84,48.4,4.59,1352,0,0
+2026-04-01,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,2.69,49.6,4.61,1361,0,0
+2026-04-02,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,2.84,48.7,4.69,1372,1,0
+2026-04-03,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,2.93,48.9,4.53,1379,0,0
+2026-04-04,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,2.83,51.9,4.64,1387,1,0
+2026-04-05,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,2.98,52.5,4.53,1394,1,0
+2026-04-06,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,3.19,51.9,4.59,1401,0,0
+2026-04-07,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,3.15,52.4,4.59,1409,1,0
+2026-04-08,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,3.29,53.1,4.54,1423,0,0
+2026-04-09,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,3.14,51.6,4.46,1431,1,0
+2026-04-10,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,3.25,54.8,4.47,1442,1,0
+2026-04-11,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,3.44,53.0,4.51,1455,1,0
+2026-04-12,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,3.57,55.6,4.45,1465,2,0
+2026-04-13,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,3.58,56.0,4.39,1472,1,0
+2026-04-14,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,3.42,56.1,4.35,1485,1,0
+2026-04-15,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,3.67,57.2,4.25,1498,0,0
+2026-04-16,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,3.73,56.1,4.32,1504,0,0
+2026-04-17,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,3.66,57.6,4.36,1518,2,0
+2026-04-18,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,3.7,58.6,4.3,1527,3,0
+2026-04-19,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,3.81,56.5,4.22,1535,2,0
+2026-04-20,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,3.84,58.4,4.25,1542,3,0
+2026-04-21,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,3.82,59.2,4.15,1552,1,0
+2026-04-22,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.15,60.6,4.23,1565,3,0
+2026-04-23,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.03,58.6,4.1,1573,3,0
+2026-04-24,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.06,60.3,4.18,1585,3,0
+2026-04-25,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.26,59.9,4.06,1595,2,0
+2026-04-26,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.2,62.6,4.09,1608,3,0
+2026-04-27,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.29,62.8,3.97,1617,3,0
+2026-04-28,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.34,60.7,4.04,1630,1,0
+2026-04-29,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.45,62.6,4.02,1638,1,0
+2026-04-30,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.51,64.4,4.03,1650,1,0
+2026-05-01,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.46,63.1,3.84,1659,2,0
+2026-05-02,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.66,62.6,3.91,1669,2,0
+2026-05-03,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.59,64.6,3.84,1676,1,0
+2026-05-04,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.85,64.1,3.9,1683,2,0
+2026-05-05,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.96,65.8,3.87,1692,3,0
+2026-05-06,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.78,64.9,3.72,1701,3,0
+2026-05-07,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.87,66.8,3.74,1712,3,0
+2026-05-08,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.86,65.8,3.74,1723,1,0
+2026-05-09,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.96,65.9,3.77,1734,2,0
+2026-05-10,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,4.99,66.9,3.81,1745,2,0
+2026-05-11,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,5.23,69.2,3.62,1756,1,0
+2026-05-12,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,5.24,68.5,3.7,1765,3,0
+2026-05-13,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,5.33,69.6,3.55,1774,3,0
+2026-05-14,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,5.48,70.2,3.58,1787,1,0
+2026-05-15,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,5.28,69.4,3.61,1797,0,0
+2026-05-16,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,5.49,70.3,3.55,1804,2,0
+2026-05-17,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,5.66,71.2,3.46,1814,2,0
+2026-05-18,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,5.61,72.6,3.57,1826,3,0
+2026-05-19,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,5.52,72.0,3.5,1840,2,0
+2026-05-20,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,5.62,71.7,3.42,1846,1,0
+2026-05-21,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,5.83,73.2,3.42,1855,3,0
+2026-05-22,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,5.75,73.7,3.39,1863,2,0
+2026-05-23,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,6.0,72.8,3.5,1872,3,0
+2026-05-24,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,5.98,74.2,3.3,1886,2,1
+2026-05-25,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,5.95,76.5,3.38,1892,1,1
+2026-05-26,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,5.97,77.0,3.34,1899,0,1
+2026-05-27,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,6.06,76.4,3.33,1908,2,1
+2026-05-28,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,6.22,77.4,3.34,1916,2,1
+2026-05-29,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,6.15,76.9,3.26,1929,2,1
+2026-05-30,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,6.31,78.2,3.27,1935,1,1
+2026-05-31,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,6.43,77.0,3.14,1947,1,1
+2026-06-01,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,6.31,78.5,3.24,1953,2,1
+2026-06-02,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,6.59,79.7,3.2,1959,2,1
+2026-06-03,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,6.68,79.7,3.2,1965,1,1
+2026-06-04,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,6.56,80.5,3.06,1978,0,1
+2026-06-05,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,6.61,80.3,3.04,1992,1,1
+2026-06-06,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,6.83,79.6,3.03,2006,2,1
+2026-06-07,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,6.71,80.5,3.02,2017,1,1
+2026-06-08,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,6.82,82.9,3.09,2024,2,1
+2026-06-09,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.05,81.6,2.91,2035,1,1
+2026-06-10,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.09,83.1,2.91,2049,3,1
+2026-06-11,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.15,83.8,2.98,2059,2,1
+2026-06-12,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.14,85.0,2.99,2066,0,1
+2026-06-13,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.23,83.1,2.83,2079,1,1
+2026-06-14,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.08,84.9,2.97,2089,3,1
+2026-06-15,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.35,84.7,2.85,2102,1,0
+2026-06-16,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.28,86.5,2.86,2111,3,0
+2026-06-17,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.39,86.2,2.75,2118,3,0
+2026-06-18,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.51,87.3,2.82,2127,2,0
+2026-06-19,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.47,87.0,2.69,2134,2,0
+2026-06-20,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.68,88.5,2.69,2142,1,0
+2026-06-21,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.61,87.1,2.66,2150,2,0
+2026-06-22,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.76,89.1,2.67,2156,1,0
+2026-06-23,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.85,90.1,2.57,2167,3,0
+2026-06-24,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.91,89.2,2.69,2180,0,0
+2026-06-25,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.81,89.7,2.58,2186,2,0
+2026-06-26,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.79,91.2,2.59,2192,2,0
+2026-06-27,EQ-FUR-01,Holding Furnace HF-3,BALCO Korba,Cast House,7.97,91.5,2.52,2206,2,0
+2026-03-30,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,2.04,58.9,5.68,1034,0,0
+2026-03-31,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,2.23,60.2,5.57,1046,0,0
+2026-04-01,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,2.2,59.0,5.49,1057,1,0
+2026-04-02,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,2.22,60.9,5.6,1067,0,0
+2026-04-03,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,2.33,59.8,5.54,1073,1,0
+2026-04-04,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,2.4,62.9,5.4,1084,0,0
+2026-04-05,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,2.46,61.6,5.45,1092,1,0
+2026-04-06,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,2.65,61.2,5.52,1100,1,0
+2026-04-07,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,2.74,61.5,5.37,1113,1,0
+2026-04-08,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,2.6,62.5,5.45,1121,1,0
+2026-04-09,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,2.75,64.5,5.42,1132,2,0
+2026-04-10,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,2.84,65.6,5.27,1144,1,0
+2026-04-11,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,2.99,64.9,5.44,1151,1,0
+2026-04-12,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,2.93,66.5,5.38,1158,1,0
+2026-04-13,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,2.91,64.3,5.31,1169,2,0
+2026-04-14,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,2.95,66.0,5.23,1182,2,0
+2026-04-15,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,3.1,65.1,5.33,1194,1,0
+2026-04-16,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,3.12,67.0,5.26,1205,1,0
+2026-04-17,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,3.12,68.5,5.24,1211,1,0
+2026-04-18,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,3.1,68.9,5.14,1219,1,0
+2026-04-19,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,3.42,68.8,5.13,1232,1,0
+2026-04-20,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,3.24,69.4,5.22,1244,2,0
+2026-04-21,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,3.36,70.7,5.12,1257,3,0
+2026-04-22,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,3.61,68.6,5.04,1263,1,0
+2026-04-23,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,3.62,71.0,5.17,1272,1,0
+2026-04-24,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,3.64,69.9,5.08,1279,3,0
+2026-04-25,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,3.76,70.9,5.01,1288,1,0
+2026-04-26,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,3.58,72.7,4.97,1298,3,0
+2026-04-27,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,3.75,72.5,4.91,1310,2,0
+2026-04-28,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,3.67,73.2,4.98,1317,2,0
+2026-04-29,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,3.92,73.8,4.98,1328,1,0
+2026-04-30,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,3.93,72.7,4.97,1340,1,0
+2026-05-01,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.12,74.8,4.92,1347,2,0
+2026-05-02,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.1,75.0,4.89,1356,1,0
+2026-05-03,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.12,73.2,4.91,1362,2,0
+2026-05-04,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.04,75.1,4.92,1374,3,0
+2026-05-05,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.22,76.3,4.72,1382,3,0
+2026-05-06,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.16,75.8,4.74,1394,0,0
+2026-05-07,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.44,75.2,4.67,1401,2,0
+2026-05-08,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.26,77.6,4.76,1415,3,0
+2026-05-09,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.29,76.7,4.7,1424,2,0
+2026-05-10,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.6,79.1,4.66,1437,1,0
+2026-05-11,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.62,76.8,4.64,1446,2,0
+2026-05-12,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.55,79.9,4.73,1455,2,0
+2026-05-13,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.52,80.0,4.69,1469,2,0
+2026-05-14,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.85,81.1,4.55,1481,1,0
+2026-05-15,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.86,80.3,4.5,1493,1,0
+2026-05-16,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.84,80.3,4.47,1501,1,0
+2026-05-17,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.99,81.3,4.48,1515,3,0
+2026-05-18,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.8,79.9,4.56,1523,1,0
+2026-05-19,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.87,81.5,4.53,1531,0,0
+2026-05-20,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,4.96,82.7,4.41,1540,2,0
+2026-05-21,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,5.2,83.6,4.47,1550,3,0
+2026-05-22,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,5.31,84.3,4.34,1557,2,0
+2026-05-23,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,5.1,83.6,4.37,1566,3,0
+2026-05-24,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,5.15,85.5,4.29,1578,2,0
+2026-05-25,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,5.43,83.6,4.25,1586,0,0
+2026-05-26,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,5.28,84.5,4.3,1600,3,0
+2026-05-27,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,5.34,85.8,4.31,1614,2,0
+2026-05-28,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,5.39,85.1,4.25,1623,2,0
+2026-05-29,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,5.5,85.5,4.18,1637,1,0
+2026-05-30,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,5.6,88.1,4.32,1647,1,0
+2026-05-31,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,5.61,86.9,4.23,1657,2,0
+2026-06-01,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,5.71,87.5,4.21,1667,0,0
+2026-06-02,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,5.77,88.4,4.14,1674,1,0
+2026-06-03,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,5.77,88.3,4.17,1688,3,0
+2026-06-04,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,5.85,89.9,4.1,1695,3,0
+2026-06-05,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,5.9,88.0,4.14,1706,3,0
+2026-06-06,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,5.93,88.7,4.04,1715,3,1
+2026-06-07,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,6.1,91.6,4.13,1722,1,1
+2026-06-08,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,6.11,91.8,3.97,1728,1,1
+2026-06-09,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,6.16,90.2,3.95,1739,3,1
+2026-06-10,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,6.1,92.6,4.0,1745,1,1
+2026-06-11,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,6.27,93.4,4.05,1751,3,1
+2026-06-12,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,6.45,92.4,3.9,1762,2,1
+2026-06-13,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,6.35,93.5,3.9,1775,1,1
+2026-06-14,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,6.57,94.9,3.82,1784,3,1
+2026-06-15,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,6.47,94.6,3.86,1792,1,1
+2026-06-16,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,6.67,94.6,3.75,1798,2,1
+2026-06-17,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,6.77,93.7,3.8,1810,3,1
+2026-06-18,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,6.68,94.3,3.88,1822,1,1
+2026-06-19,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,6.67,95.8,3.78,1832,2,1
+2026-06-20,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,6.73,95.7,3.68,1846,1,1
+2026-06-21,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,6.97,97.3,3.66,1859,3,1
+2026-06-22,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,7.01,96.3,3.64,1868,1,1
+2026-06-23,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,6.92,99.0,3.74,1876,2,1
+2026-06-24,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,7.16,97.8,3.66,1890,3,1
+2026-06-25,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,7.06,99.1,3.74,1897,1,1
+2026-06-26,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,7.07,100.2,3.57,1903,3,1
+2026-06-27,EQ-CNV-03,Limestone Conveyor BC-9,Chanderiya Zinc,Material Handling,7.09,99.6,3.58,1912,3,1
+2026-03-30,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,1.84,54.4,5.62,1079,0,0
+2026-03-31,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,1.83,54.5,5.49,1086,2,0
+2026-04-01,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,1.91,54.6,5.49,1098,0,0
+2026-04-02,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,2.22,55.7,5.46,1107,0,0
+2026-04-03,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,2.24,55.7,5.49,1120,0,0
+2026-04-04,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,2.14,58.0,5.39,1131,2,0
+2026-04-05,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,2.3,57.5,5.37,1141,1,0
+2026-04-06,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,2.23,58.2,5.4,1147,2,0
+2026-04-07,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,2.55,59.4,5.48,1156,2,0
+2026-04-08,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,2.4,59.1,5.4,1169,0,0
+2026-04-09,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,2.64,59.5,5.31,1180,2,0
+2026-04-10,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,2.71,61.9,5.36,1193,1,0
+2026-04-11,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,2.58,62.8,5.34,1201,2,0
+2026-04-12,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,2.85,61.7,5.18,1208,1,0
+2026-04-13,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.0,63.6,5.25,1221,1,0
+2026-04-14,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.06,62.6,5.15,1233,2,0
+2026-04-15,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.03,64.2,5.22,1240,2,0
+2026-04-16,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.16,63.5,5.22,1253,1,0
+2026-04-17,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.15,64.0,5.11,1261,2,0
+2026-04-18,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.07,63.9,5.03,1268,3,0
+2026-04-19,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.33,64.3,5.0,1279,1,0
+2026-04-20,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.49,66.5,5.11,1289,2,0
+2026-04-21,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.54,66.3,4.9,1300,2,0
+2026-04-22,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.46,68.7,5.04,1310,3,0
+2026-04-23,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.67,68.9,4.86,1319,3,0
+2026-04-24,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.57,67.9,4.99,1332,2,0
+2026-04-25,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.67,68.0,4.87,1343,2,0
+2026-04-26,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.72,69.6,4.94,1356,2,0
+2026-04-27,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.81,71.0,4.85,1366,2,0
+2026-04-28,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.94,72.0,4.87,1372,2,0
+2026-04-29,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.82,72.2,4.84,1385,2,0
+2026-04-30,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,4.19,70.7,4.76,1395,1,0
+2026-05-01,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,3.99,72.7,4.72,1401,2,0
+2026-05-02,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,4.32,71.9,4.77,1409,2,0
+2026-05-03,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,4.1,73.5,4.7,1416,2,0
+2026-05-04,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,4.32,73.3,4.55,1422,2,0
+2026-05-05,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,4.27,74.3,4.7,1431,1,0
+2026-05-06,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,4.51,76.3,4.6,1443,3,0
+2026-05-07,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,4.6,75.0,4.55,1457,3,0
+2026-05-08,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,4.47,76.5,4.49,1467,2,0
+2026-05-09,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,4.64,76.6,4.4,1480,3,0
+2026-05-10,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,4.59,77.8,4.5,1493,1,0
+2026-05-11,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,4.79,78.6,4.39,1501,2,0
+2026-05-12,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,4.82,79.1,4.39,1508,2,0
+2026-05-13,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,4.96,78.9,4.45,1516,2,0
+2026-05-14,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,4.97,80.8,4.38,1528,1,0
+2026-05-15,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,5.14,80.2,4.36,1538,2,0
+2026-05-16,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,5.1,81.1,4.28,1544,2,0
+2026-05-17,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,5.26,81.3,4.31,1555,0,0
+2026-05-18,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,5.35,81.0,4.32,1563,1,0
+2026-05-19,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,5.48,81.0,4.17,1569,1,0
+2026-05-20,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,5.45,83.9,4.27,1580,3,0
+2026-05-21,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,5.53,83.6,4.1,1593,3,0
+2026-05-22,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,5.46,85.0,4.2,1602,2,0
+2026-05-23,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,5.51,83.2,4.03,1608,3,0
+2026-05-24,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,5.57,84.2,4.12,1622,2,1
+2026-05-25,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,5.76,85.2,4.07,1636,1,1
+2026-05-26,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,5.87,87.4,4.04,1644,2,1
+2026-05-27,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,5.82,87.1,3.96,1653,1,1
+2026-05-28,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,5.94,86.9,4.04,1661,2,1
+2026-05-29,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,6.15,89.2,3.94,1673,1,1
+2026-05-30,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,6.14,89.8,4.01,1679,3,1
+2026-05-31,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,6.3,87.7,3.83,1690,0,1
+2026-06-01,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,6.17,88.3,3.95,1696,3,1
+2026-06-02,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,6.39,91.4,3.91,1709,2,1
+2026-06-03,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,6.25,90.7,3.83,1721,1,1
+2026-06-04,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,6.38,92.5,3.68,1730,1,1
+2026-06-05,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,6.6,91.9,3.66,1742,2,1
+2026-06-06,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,6.49,92.1,3.8,1753,2,1
+2026-06-07,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,6.59,91.6,3.59,1765,0,1
+2026-06-08,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,6.75,94.9,3.57,1774,2,1
+2026-06-09,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,6.71,92.6,3.61,1783,2,1
+2026-06-10,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,6.92,95.0,3.52,1797,1,1
+2026-06-11,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,7.06,96.1,3.57,1807,1,1
+2026-06-12,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,7.06,95.7,3.51,1821,2,1
+2026-06-13,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,7.14,96.5,3.48,1830,1,1
+2026-06-14,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,7.09,96.9,3.42,1838,3,1
+2026-06-15,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,7.3,98.6,3.37,1844,3,0
+2026-06-16,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,7.43,96.5,3.51,1856,2,0
+2026-06-17,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,7.22,97.5,3.35,1868,2,0
+2026-06-18,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,7.5,100.3,3.47,1879,0,0
+2026-06-19,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,7.52,100.3,3.33,1891,0,0
+2026-06-20,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,7.64,101.0,3.34,1901,1,0
+2026-06-21,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,7.65,100.8,3.31,1909,1,0
+2026-06-22,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,7.62,102.4,3.23,1919,3,0
+2026-06-23,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,7.72,101.4,3.27,1930,2,0
+2026-06-24,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,7.92,100.8,3.18,1941,1,0
+2026-06-25,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,7.76,101.3,3.1,1952,2,0
+2026-06-26,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,7.84,104.7,3.12,1966,3,0
+2026-06-27,EQ-PMP-03,Acid Transfer Pump P-22,Debari Zinc,Hydrometallurgy,8.13,103.2,3.21,1974,2,0
+2026-03-30,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.48,46.4,5.3,1107,0,0
+2026-03-31,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.31,48.8,5.33,1121,0,0
+2026-04-01,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.32,47.5,5.27,1130,0,0
+2026-04-02,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.5,46.4,5.25,1140,0,0
+2026-04-03,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.39,47.4,5.3,1153,1,0
+2026-04-04,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.39,47.0,5.2,1159,0,0
+2026-04-05,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.49,48.3,5.33,1170,0,0
+2026-04-06,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.47,46.5,5.32,1177,0,0
+2026-04-07,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.44,49.0,5.3,1189,0,0
+2026-04-08,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.51,47.8,5.31,1203,0,0
+2026-04-09,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.35,46.7,5.23,1214,0,0
+2026-04-10,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.47,47.2,5.37,1226,0,0
+2026-04-11,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.53,47.8,5.3,1239,0,0
+2026-04-12,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.55,48.6,5.23,1251,0,0
+2026-04-13,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.48,46.8,5.21,1263,0,0
+2026-04-14,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.43,48.1,5.37,1276,1,0
+2026-04-15,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.4,48.5,5.34,1284,1,0
+2026-04-16,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.28,45.9,5.29,1298,0,0
+2026-04-17,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.35,47.3,5.33,1305,0,0
+2026-04-18,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.41,46.0,5.34,1312,0,0
+2026-04-19,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.34,46.9,5.36,1322,0,0
+2026-04-20,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.43,47.3,5.36,1336,0,0
+2026-04-21,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.32,47.5,5.27,1349,0,0
+2026-04-22,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.44,46.2,5.3,1355,0,0
+2026-04-23,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.46,46.7,5.26,1366,0,0
+2026-04-24,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.48,48.1,5.35,1378,0,0
+2026-04-25,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.23,46.2,5.23,1388,0,0
+2026-04-26,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.47,46.1,5.33,1395,0,0
+2026-04-27,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.25,47.8,5.36,1401,1,0
+2026-04-28,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.34,45.9,5.31,1407,0,0
+2026-04-29,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.31,46.6,5.24,1420,0,0
+2026-04-30,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.43,46.6,5.3,1430,0,0
+2026-05-01,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.37,48.1,5.37,1439,0,0
+2026-05-02,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.25,47.1,5.32,1446,0,0
+2026-05-03,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.29,47.9,5.38,1457,0,0
+2026-05-04,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.35,47.9,5.34,1466,0,0
+2026-05-05,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.36,45.9,5.25,1474,0,0
+2026-05-06,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.41,47.9,5.39,1483,1,0
+2026-05-07,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.21,45.5,5.31,1493,0,0
+2026-05-08,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.25,46.6,5.42,1503,0,0
+2026-05-09,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.28,46.8,5.35,1517,0,0
+2026-05-10,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.4,47.2,5.29,1530,0,0
+2026-05-11,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.27,45.8,5.25,1542,0,0
+2026-05-12,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.37,46.3,5.31,1551,1,0
+2026-05-13,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.38,46.0,5.35,1562,0,0
+2026-05-14,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.25,46.0,5.42,1572,0,0
+2026-05-15,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.13,46.1,5.28,1580,0,0
+2026-05-16,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.4,46.5,5.26,1594,1,0
+2026-05-17,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.13,46.8,5.42,1608,0,0
+2026-05-18,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.26,47.6,5.41,1620,0,0
+2026-05-19,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.37,45.6,5.29,1629,2,0
+2026-05-20,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.37,44.9,5.33,1642,1,0
+2026-05-21,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.28,46.6,5.25,1649,0,0
+2026-05-22,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.33,47.1,5.42,1656,0,0
+2026-05-23,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.2,44.5,5.42,1664,0,0
+2026-05-24,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.32,47.0,5.41,1676,1,0
+2026-05-25,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.13,45.2,5.38,1689,0,0
+2026-05-26,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.19,45.2,5.31,1703,0,0
+2026-05-27,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.28,47.2,5.41,1710,1,0
+2026-05-28,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.29,45.6,5.35,1717,0,0
+2026-05-29,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.35,44.5,5.29,1730,0,0
+2026-05-30,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.3,45.8,5.43,1739,0,0
+2026-05-31,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.27,46.7,5.27,1751,0,0
+2026-06-01,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.21,45.6,5.37,1760,0,0
+2026-06-02,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.29,47.1,5.28,1767,0,0
+2026-06-03,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.04,45.6,5.29,1776,1,0
+2026-06-04,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.16,44.6,5.43,1789,0,0
+2026-06-05,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.03,44.4,5.47,1799,0,0
+2026-06-06,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.22,44.4,5.38,1808,0,0
+2026-06-07,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.2,45.4,5.32,1819,0,0
+2026-06-08,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.05,45.5,5.44,1825,0,0
+2026-06-09,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.31,43.9,5.42,1834,0,0
+2026-06-10,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.02,45.3,5.31,1845,0,0
+2026-06-11,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.0,44.4,5.34,1857,0,0
+2026-06-12,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.12,44.6,5.39,1866,0,0
+2026-06-13,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.07,44.5,5.31,1880,0,0
+2026-06-14,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.22,45.5,5.34,1893,1,0
+2026-06-15,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.05,46.5,5.41,1901,0,0
+2026-06-16,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.25,43.8,5.39,1914,0,0
+2026-06-17,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.2,44.3,5.37,1926,0,0
+2026-06-18,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.07,43.8,5.42,1935,0,0
+2026-06-19,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.18,46.1,5.41,1948,0,0
+2026-06-20,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.23,45.5,5.33,1959,0,0
+2026-06-21,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.08,45.3,5.47,1968,0,0
+2026-06-22,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,1.96,44.8,5.41,1974,0,0
+2026-06-23,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.22,44.9,5.3,1984,1,0
+2026-06-24,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,1.96,45.5,5.35,1990,0,0
+2026-06-25,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.22,46.3,5.43,2003,0,0
+2026-06-26,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,2.1,43.6,5.38,2011,0,0
+2026-06-27,EQ-CRN-03,Gantry Crane #5,Lanjigarh Refinery,Material Handling,1.96,45.8,5.33,2024,0,0
